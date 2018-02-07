@@ -1,5 +1,5 @@
 # 同文安卓輸入法平臺/Trime/android-rime
-[![自動編譯](https://travis-ci.org/nlpguyz/trime.svg?branch=develop)](https://travis-ci.org/osfans/trime)
+[![自動編譯](https://travis-ci.org/nlpguyz/trime.svg?branch=develop)](https://travis-ci.org/nlpguyz/trime)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![GitHub release](https://img.shields.io/github/release/osfans/trime.svg)](https://github.com/osfans/trime/releases)
 
