@@ -6,11 +6,8 @@
 [<img alt='Google Play立即下載' src='https://play.google.com/intl/en_us/badges/images/generic/zh-tw_badge_web_generic.png' height='80px'/>](https://play.google.com/store/apps/details?id=com.osfans.trime)
 [<img alt='酷安' src='http://image.coolapk.com/apk_logo/2016/0108/12202_1452248424_4592.png' height='80px'/>](http://www.coolapk.com/apk/com.osfans.trime)
 
-前端㞢源於開源的[注音倉頡輸入法]啫，
-基於著名的[Rime]輸入法框架，
-使用JNI的C語言和安卓的Java語言書寫，
-旨在保護漢語各地方言母語，
-輸入法平臺㞢通用于音碼形碼啫。
+本輸入法享有優秀前端㞢源於開源[注音倉頡輸入法]啫，以及輸入法引擎㞢基於著名的[Rime]框架。JNI部分使用C/C++語言，安卓應用程序部分使用Java語言編寫。
+旨在保護漢語各地的方言和母語，輸入法平臺通用于音碼和形碼。
 
 ## 鳴謝/Credits
 - 開發：[osfans](https://github.com/osfans)
