@@ -20,16 +20,20 @@ package com.osfans.trime;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
+import android.content.ClipDescription;
 import android.content.DialogInterface;
 import android.content.res.Configuration;
 import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.GradientDrawable;
 import android.inputmethodservice.InputMethodService;
+import android.net.Uri;
 import android.os.Build.VERSION;
 import android.os.Build.VERSION_CODES;
 import android.os.Handler;
 import android.os.IBinder;
+import android.support.v13.view.inputmethod.InputConnectionCompat;
+import android.support.v13.view.inputmethod.InputContentInfoCompat;
 import android.text.InputType;
 import android.view.Gravity;
 import android.view.KeyEvent;
@@ -689,6 +693,29 @@ public class Trime extends InputMethodService
     }
     if (!canCompose || Rime.isVoidKeycode(keyCode)) return false;
     return true;
+  }
+
+  /**
+   * Commits a GIF image
+   *
+   * @param contentUri Content URI of the GIF image to be sent
+   * @param imageDescription Description of the GIF image to be sent
+   *
+   * TS950
+   */
+  public void commitGifImage(Uri contentUri, String imageDescription) {
+    InputContentInfoCompat inputContentInfo = new InputContentInfoCompat(
+            contentUri,
+            new ClipDescription(imageDescription, new String[]{"image/gif"}),
+            null);
+    InputConnection inputConnection = getCurrentInputConnection();
+    EditorInfo editorInfo = getCurrentInputEditorInfo();
+    int flags = 0;
+    if (android.os.Build.VERSION.SDK_INT >= 25) {
+      flags |= InputConnectionCompat.INPUT_CONTENT_GRANT_READ_URI_PERMISSION;
+    }
+    InputConnectionCompat.commitContent(
+            inputConnection, editorInfo, inputContentInfo, flags, null);
   }
 
   @Override
