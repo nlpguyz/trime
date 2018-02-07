@@ -29,7 +29,7 @@
 - 後來，兼容了五筆、兩筆等形碼，在太空衛士、徵羽的建議下，更名爲“[同文輸入法平臺2.x](https://github.com/osfans/trime-legacy)”。寓意音碼形碼同臺，方言官話同文。
 - 之後，藉助JNI技術，享受了[librime](https://github.com/rime/librime)的成果，升級爲“同文輸入法平臺3.x”，簡稱“同文輸入法”。
 - 所以，TRIME是Tongwen RIME或是ThaeRvInputMEthod的縮寫。
-- 現在，為了進一步促進TRIME的發展，包括採用人工智能技術，甄選、引入更多用戶喜愛的輸入方案等，語言維基網站(https://langwiki.org)主導維護此新版本。
+- 現在，為了進一步促進TRIME的發展，包括採用人工智能技術，甄選、引入更多用戶喜愛的輸入方案等，語言維基網站 (https://langwiki.org) 主導和維護此新版本。
 
 ## 新增輸入方案/Submit a new input schema
 - 歡迎大家參與開發本輸入法，提交新的輸入方案（如吳語拼音、小語種字母輸入等）
