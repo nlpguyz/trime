@@ -1,0 +1,136 @@
+﻿# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: gr3
+  name: 國語羅馬字3
+  version: "3.0"
+  author:
+    - 趙元任
+  description: |
+    ch->c tz->z ts->q sh->x ng>g nq>q
+    iuan->ion yuan->yon euan->eon iuann->van
+    iann->ien uann->uon iunn->vn iueh>ve iuh>v
+    uei->ui wei->wi oei->oi uey->uy
+    uen->un wen->wn oen->on uen->unn
+    iou>io you>yo eou>eo iow>iw
+    mh>m nh>n lh>l rh>r
+    1925～1926年国语统一筹备会罗马字母拼音研究委员会研究制订
+    1928年南京国民党政府大学院作为“国音字母第二式”公布，与注音字母同时推行。
+    一些简化规则,使大部分的音节不超过4个音节
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
+      * luna_pinyin
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
+  dependencies:
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/ch/c/
+    - abbrev/tz/z/
+    - abbrev/ts/q/
+    - abbrev/sh/x/
+    - abbrev/ng/g/
+    - abbrev/nq/q/
+    - abbrev/iann/ien/
+    - abbrev/iuann/van/
+    - abbrev/iuan/ion/
+    - abbrev/yuan/yon/
+    - abbrev/euan/eon/
+    - abbrev/iueh/ve/
+    - abbrev/iuh/v/
+    - abbrev/uann/uon/
+    - abbrev/iunn/vn/
+    - abbrev/uei/ui/
+    - abbrev/wei/wi/
+    - abbrev/oei/oi/
+    - abbrev/uey/uy/
+    - abbrev/uen/un/
+    - abbrev/wen/wn/
+    - abbrev/oen/on/
+    - abbrev/uenn/unn/
+    - abbrev/iou/io/
+    - abbrev/you/yo/
+    - abbrev/eou/eo/
+    - abbrev/iow/iw/
+    - abbrev/nh/n/
+    - abbrev/mh/m/
+    - abbrev/lh/l/
+    - abbrev/rh/r/
+
+translator:
+  dictionary: gr3
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    reverse_lookup: "`[a-z]*'?$"

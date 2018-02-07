@@ -1,0 +1,126 @@
+﻿# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: xpgl
+  name: 三拼国罗
+  version: "1.0"
+  author:
+    - 黄挺
+  description: |
+      三拼国罗方案 以汉语拼音为基础，参考国语罗马字变调，变为 三个字母，既表示声调，又有元音字母： 
+      z c s 后的i u un ui ong 变ii uai ü er uang（最终变为ii uu eu oi og）
+      lün 变len， lo变lua 
+      j q x 的uan 变ua 
+      再把zh ch sh 变 z c s；把 z c s 变j q x  
+      声母b p m f d t n l g k h j q x z c s r y w 
+      韵母（括号是原汉语拼音）： 
+      a(a) ai(ai) au(ao) an(an) ag(ang)
+      i(i) ii(ii) iu(iu) in(in) ig(ing)
+      u(u) ui(ui,üe,ue) uu(ü) un (un) ug(ong,iong) 
+      e(e) ei(ei) eu(er) en(en) eg(eng) 
+      o(o,uo) oi(uai) ou(ou) on(uan) og(uang) 
+      y(ie) -- yu(iao) yn(ian) yg(iang)
+      ia(ia) ua (ua) 
+      变调： 
+      五声的变调 ia ua是只变前字母，其它a e i  u o都像a-这样只变后字母。第四声是原型 
+      原型 a ai au an ag ia ua 
+      1 a  ai au an ag ia ua
+      2 ar aj av ad ak ja va
+      3 as ae ao at ac ea oa
+      4 ah ay aw am aq ya wa
+      5 af az ab al ax za ba
+      设计都考虑与国语罗马字相近
+      特别说明一下jqx和zcs合并后的情况是这样的： 
+      三拼          汉语拼音 
+      ja jai jau jan jag =( za zai zao zan zang) 
+      ji jii jiu jin jig =( ji zi jiu jin jing) 
+      ju jui juu jun jug =(ju jue zu jun jiong) 
+      je jei jeu jen jeg =(ze zei zun zen zeng) 
+      jo joi jou jon jog =(zuo zui zou zuan zong) 
+      jy jyi jyu jyn jyg =(jie -- jiao jian jiang) 
+      jia jua = (jia juan) 
+      m n ng hm hng的12340声分别改为m n g hm hg 加t d s - f  
+      * luna_pinyin
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
+  dependencies:
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - abbrev/^([a-z]).+$/$1/
+
+translator:
+  dictionary: xpgl
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    reverse_lookup: "`[a-z]*'?$"

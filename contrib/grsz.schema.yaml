@@ -1,0 +1,101 @@
+﻿# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: grsz
+  name: 國羅四字
+  version: "1.1"
+  author:
+    - 趙元任+Hwag Tiig
+  description: |
+    Modify Gwoyeu Romatzyh to 4-letter:
+    tz/ch/sh/ng/nq to z/c/x/g/q (except sh alone)
+    iuan/yuan/euan/iuann/yeuan/yuann to ion/yon/eon/ewn/yeon/yewn
+    iueh/iann/uann/uenn/iunn to ueh/ien/uon/unn/iwn
+    after n/m/l/r, hi-/hu- to y/w (for i/u alone, to yi/wu)
+    ts-:1th~5th tones to ts/tr/tx/tc/th, and its -uan/-uen to on/un
+    uei/wei/oei/uey/woei/wey to ui/wi/oi/uy/woi/wy
+    5th tone: if 4 letters for the prototype, change 2nd i/u to j/v, else add v before.
+      * luna_pinyin
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
+  dependencies:
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - abbrev/^([a-z]).+$/$1/
+
+translator:
+  dictionary: grsz
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    reverse_lookup: "`[a-z]*'?$"
