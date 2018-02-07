@@ -9,6 +9,10 @@
 本輸入法享有優秀前端㞢源於開源[注音倉頡輸入法]啫，以及輸入法引擎㞢基於著名的[Rime]框架。JNI部分使用C/C++語言，安卓應用程序部分使用Java語言編寫。
 旨在保護漢語各地的方言和母語，輸入法平臺通用于音碼和形碼。
 
+## 維護者/Maintainers
+- 本版本維護者：nlpguyz (nlpguyz@gmail.com）
+- 主要聯繫方式：語言維基QQ群（562374735)
+
 ## 鳴謝/Credits
 - 開發：[osfans](https://github.com/osfans)
 - 貢獻：[boboIqiqi](https://github.com/boboIqiqi)、[Bambooin](https://github.com/Bambooin)
