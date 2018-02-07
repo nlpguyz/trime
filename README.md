@@ -34,7 +34,7 @@
 ## 新增輸入方案/Submit a new input schema
 - 歡迎大家參與開發本輸入法，提交新的輸入方案（如吳語拼音、小語種字母輸入等）
 - 管理員會每月考慮新提交的輸入法，將完善的方案加到安裝文件中。加入後，本軟件用戶只要安裝便可使用您提交的輸入方案，無須額外操作。
-- 新的輸入法文件可以用git提交到 https://github.com/nlpguyz/trime/tree/develop/app/src/main/assets/rime 目錄下。也可以在github網頁上直接上載。
+- 新的輸入法文件可以用git提交到 https://github.com/nlpguyz/trime/tree/develop/contrib 目錄下。也可以在github網頁上直接上載。
 
 ## 編譯/Build
 
