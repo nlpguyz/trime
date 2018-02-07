@@ -6,11 +6,11 @@
 [<img alt='Google Play立即下載' src='https://play.google.com/intl/en_us/badges/images/generic/zh-tw_badge_web_generic.png' height='80px'/>](https://play.google.com/store/apps/details?id=com.osfans.trime)
 [<img alt='酷安' src='http://image.coolapk.com/apk_logo/2016/0108/12202_1452248424_4592.png' height='80px'/>](http://www.coolapk.com/apk/com.osfans.trime)
 
-源於開源的[注音倉頡輸入法]前端，
+前端㞢源於開源的[注音倉頡輸入法]啫，
 基於著名的[Rime]輸入法框架，
-使用JNI的C語言和安卓的java語言書寫，
+書寫使用語言㞢JNI的C語言和安卓的Java啫，
 旨在保護漢語各地方言母語，
-音碼形碼通用的輸入法平臺。
+輸入法平臺㞢音碼形碼通用啫。
 
 ## 鳴謝/Credits
 - 開發：[osfans](https://github.com/osfans)
@@ -100,3 +100,5 @@ The following guide is for the specific platform prebuild setting:
 [注音倉頡輸入法]: https://code.google.com/p/android-traditional-chinese-ime/
 [Rime]: http://rime.im
 [OpenCC]: https://github.com/BYVoid/OpenCC
+
+【注】本文使用实验性的新汉语定语语法，长定语置于中心词之后，用“㞢“引导，以“啫”结束。如，”美丽而又伟大的祖国“可以表达为”祖国㞢美丽而又伟大啫“。
