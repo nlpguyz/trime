@@ -10,7 +10,7 @@
 基於著名的[Rime]輸入法框架，
 使用JNI的C語言和安卓的Java語言書寫，
 旨在保護漢語各地方言母語，
-輸入法平臺㞢音碼形碼通用啫。
+輸入法平臺㞢通用于音碼形碼啫。
 
 ## 鳴謝/Credits
 - 開發：[osfans](https://github.com/osfans)
