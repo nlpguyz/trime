@@ -25,6 +25,25 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
+未	wc
+已	yc
+各	gi
+科	ki
+回	hi
+事	vj
+吧	bk
+发	fk
+吗	mk
+作	zk
+在	zl
+打	dm
+心	xr
+以	yr
+不	bv
+地	dv
+家	jv
+入	rv
+
 	yi
 	zo
 	gt
@@ -49,7 +68,6 @@ use_preset_vocabulary: true
 	lh
 	cf
 	eh
-	
 	rw
 	zs
 	ba
@@ -144,7 +162,7 @@ use_preset_vocabulary: true
 敱	os
 皚	os
 𤸳	os
-𦩴	os
+??	os
 𧪚	os
 癌	il
 癌	os
@@ -483,7 +501,7 @@ use_preset_vocabulary: true
 聱	ic	1.1%
 聱	od
 螯	od
-??	od
+𦪈	od
 翱	od
 謷	od
 䦋	od
@@ -670,7 +688,7 @@ use_preset_vocabulary: true
 坝	ba
 弝	ba
 爸	ba
-𥝧	ba
+??	ba
 垻	ba
 垻	br	0.0%
 𧿏	ba
@@ -701,7 +719,7 @@ use_preset_vocabulary: true
 霸	po	1.1%
 㶚	ba
 壩	ba
-??	ba
+𤜕	ba
 灞	ba
 欛	ba
 䃻	ba
@@ -880,7 +898,7 @@ use_preset_vocabulary: true
 瓣	bf
 𥷁	bf
 𨐾	bf
-??	bl
+𨐾	bl
 扮	bf
 邦	bg
 帮	bg
@@ -985,7 +1003,7 @@ use_preset_vocabulary: true
 胞	pd	2.2%
 笣	bd
 𧵢	bd
-𠅬	bd
+??	bd
 龅	bd
 龅	pd	1.1%
 煲	bd
@@ -1233,7 +1251,7 @@ use_preset_vocabulary: true
 蛽	bs
 禙	br
 㣁	br
-??	br
+𣖾	br
 𩚾	br
 𧶙	br
 䟺	br
@@ -1255,7 +1273,7 @@ use_preset_vocabulary: true
 憊	br
 𤹲	br
 糒	br
-𠐡	br
+??	br
 𤳦	br
 鞴	br
 鞴	bs
@@ -1361,7 +1379,7 @@ use_preset_vocabulary: true
 𢐒	bq
 𡡈	bq
 綳	bq
-𤡭	bq
+??	bq
 𤡭	pq
 䨜	bq
 𥛱	bq
@@ -1411,7 +1429,7 @@ use_preset_vocabulary: true
 塴	bq
 塴	ji	1.1%
 𩂦	bq
-𦺑	bq
+??	bq
 㷯	bq
 甏	bg
 甏	bq	1.1%
@@ -1891,7 +1909,7 @@ use_preset_vocabulary: true
 𢴂	bl
 碥	bl
 稨	bl
-??	bl
+𨖠	bl
 褊	bl
 褊	pl	1.1%
 𦽟	bl
@@ -2070,7 +2088,7 @@ use_preset_vocabulary: true
 驃	bz	1.1%
 驃	pz
 飆	bz
-𩴩	bz
+??	bz
 𨭚	bz
 飇	bz
 飈	bz
@@ -2826,7 +2844,7 @@ use_preset_vocabulary: true
 才	cs
 𨙴	cs
 𨙴	zs
-𦬁	cs
+??	cs
 㒲	cs
 材	cs
 𢎂	cs
@@ -2911,7 +2929,7 @@ use_preset_vocabulary: true
 䟃	ca
 䟃	cf
 䱗	cf
-𥢽	cf
+??	cf
 䉔	cf
 𦪜	cf
 𩝖	cf
@@ -3043,7 +3061,7 @@ use_preset_vocabulary: true
 欌	cg
 欌	zg	1.1%
 𨤃	cg
-𨤃	za
+??	za
 鑶	cg
 䢢	cg
 䅮	cg
@@ -3167,7 +3185,7 @@ use_preset_vocabulary: true
 䈟	aa
 䈟	ce
 憡	ce
-𦔎	ce
+??	ce
 𢿸	ce
 𥰡	ce
 㩞	ci
@@ -3718,7 +3736,7 @@ use_preset_vocabulary: true
 顫	af	1.1%
 顫	ef
 顫	vf	1.1%
-𤼋	ef
+??	ef
 𨳂	ef
 䊲	ef
 𢺟	ef
@@ -3989,7 +4007,7 @@ use_preset_vocabulary: true
 坼	ee
 迠	ee
 𦈈	ee
-??	ee
+𤖷	ee
 𨹡	ee
 㿭	ee
 㿭	le
@@ -4353,7 +4371,7 @@ use_preset_vocabulary: true
 𢿦	eq
 𥢲	eq
 𪁋	eq
-𣀏	eq
+??	eq
 鯎	eq
 䆵	eq
 𦦢	eq
@@ -4445,7 +4463,7 @@ use_preset_vocabulary: true
 鴟	az	1.1%
 鴟	ez
 𩶅	ez
-𧩴	ei
+??	ei
 𧩴	ez
 鵄	az
 鵄	ez	1.1%
@@ -4496,7 +4514,7 @@ use_preset_vocabulary: true
 㔭	ee
 蚳	ex
 蚳	ez	1.1%
-??	ex
+𢔊	ex
 𦨩	lj
 𩚉	ex
 𡎍	ex
@@ -4608,7 +4626,7 @@ use_preset_vocabulary: true
 𢇕	ec
 𡳭	ec
 彳	ei
-𠮟	ei
+??	ei
 叱	ei
 斥	ei
 𡚨	ei
@@ -5939,7 +5957,7 @@ use_preset_vocabulary: true
 䢐	cu
 徂	cu
 殂	cu
-𦯣	cu
+??	cu
 䣯	cu
 䣯	tl
 𤛏	cu
@@ -6230,7 +6248,7 @@ use_preset_vocabulary: true
 嵳	co
 矬	co
 痤	co
-??	co
+𣩈	co
 𣩈	zo
 䣜	co
 蔖	aa
@@ -6397,7 +6415,7 @@ use_preset_vocabulary: true
 繨	da
 鐽	bi
 鐽	da	1.1%
-𩟐	da
+??	da
 韃	da
 韃	ta	1.1%
 龖	da
@@ -6443,7 +6461,7 @@ use_preset_vocabulary: true
 㐲	ds
 代	ds
 㞭	ds
-𠯈	ds
+??	ds
 㶡	ds
 㶡	ho
 轪	di	1.1%
@@ -6552,7 +6570,7 @@ use_preset_vocabulary: true
 単	df
 耼	df
 耽	df
-𡖓	df
+??	df
 郸	df
 𢑝	df
 聃	df
@@ -6796,7 +6814,7 @@ use_preset_vocabulary: true
 圵	dg
 凼	dg
 砀	dg
-𡇈	dg
+??	dg
 𡇈	to
 宕	dg
 垱	dg
@@ -8074,7 +8092,7 @@ use_preset_vocabulary: true
 闍	du	50.0%
 闍	ve	50.0%
 䦠	du
-𥳉	du
+??	du
 𧷿	du
 𣫔	du
 䩲	du
@@ -8362,7 +8380,7 @@ use_preset_vocabulary: true
 㬣	dy
 䯟	dy
 䯟	xk
-𦡷	dy
+??	dy
 𩅥	dy
 譈	dy
 瀩	dy
@@ -8783,7 +8801,7 @@ use_preset_vocabulary: true
 峉	oe
 䑥	oe
 䑥	sa
-??	oe
+𠱫	oe
 䆓	oe
 䆓	rp
 𢼚	oe
@@ -10506,7 +10524,7 @@ use_preset_vocabulary: true
 袱	fb
 袱	fn	1.1%
 袱	fu	1.1%
-??	ga
+𡉅	ga
 旮	ga
 旮	xu	1.1%
 伽	cx	1.1%
@@ -10758,7 +10776,7 @@ use_preset_vocabulary: true
 㽏	gf
 䲺	gf
 𦾮	gf
-??	gf
+𧹳	gf
 檊	gf
 𪚬	gf
 赣	gf
@@ -11654,7 +11672,7 @@ use_preset_vocabulary: true
 馉	gu
 詁	gu
 愲	gu
-𦈔	gu
+??	gu
 鼓	gu
 鼔	gu
 榾	gu
@@ -11801,7 +11819,7 @@ use_preset_vocabulary: true
 冎	gk
 𠈥	gk
 𣅻	gk
-??	jj
+𣅻	jj
 剐	gk
 剮	gk
 𠊰	gk
@@ -12036,7 +12054,7 @@ use_preset_vocabulary: true
 𤳭	gm
 𥀱	gm
 𤴀	gm
-𤴀	qa
+??	qa
 𪇵	gm
 㫛	gm
 俇	gm
@@ -12375,7 +12393,7 @@ use_preset_vocabulary: true
 𧬪	gt
 䵪	gt
 䵪	ht
-??	gt
+𧸫	gt
 𦬗	go
 呙	go
 呙	kl	1.1%
@@ -12537,7 +12555,7 @@ use_preset_vocabulary: true
 鉿	ha
 鉿	jk	2.2%
 鉿	ke	1.1%
-𨉣	ha
+??	ha
 蛤	ge	50.0%
 蛤	ha	51.1%
 蛤	oe	1.1%
@@ -12813,7 +12831,7 @@ use_preset_vocabulary: true
 睅	hf
 皔	hf
 𩎒	hf
-??	jf
+𩎒	jf
 馯	hf
 馯	qg
 䓿	hf
@@ -13067,7 +13085,7 @@ use_preset_vocabulary: true
 𣚧	hd
 皡	hd
 翯	he
-??	hd
+𤩭	hd
 皥	hd
 颢	hd
 𧇼	hd
@@ -13273,7 +13291,7 @@ use_preset_vocabulary: true
 𩌡	jy
 覈	he
 䶅	he
-𠘢	he
+??	he
 䮤	he
 𩅢	he
 皬	he
@@ -13466,7 +13484,7 @@ use_preset_vocabulary: true
 𥕗	hj
 谾	hj
 谾	lj
-𩗄	hj
+??	hj
 𩐠	hj
 𦑠	hj
 𦑟	hj
@@ -13518,7 +13536,7 @@ use_preset_vocabulary: true
 虹	hj	100.0%
 虹	jm	1.0%
 𠲓	hj
-??	hj
+𢂔	hj
 竑	hj
 䉺	hj
 洪	hj
@@ -13580,7 +13598,7 @@ use_preset_vocabulary: true
 魟	gj	50.0%
 魟	hj	51.1%
 潂	hj
-𦁷	hj
+??	hj
 𠪷	hj
 篊	hj
 篊	hm
@@ -13743,7 +13761,7 @@ use_preset_vocabulary: true
 鮜	hh
 𩄬	hh
 𩘋	hh
-??	hh
+𪄗	hh
 𪇂	hh
 鱟	hh
 乊	hu
@@ -14075,7 +14093,7 @@ use_preset_vocabulary: true
 𢚪	hu
 婟	hu
 𨥛	hu
-𡞠	hu
+??	hu
 綔	hu
 鄠	hu
 摢	ev
@@ -14326,7 +14344,7 @@ use_preset_vocabulary: true
 懁	hp
 懁	xp
 㹕	hp
-𡚊	hp
+??	hp
 鵍	gp
 鵍	hp
 鵍	jp
@@ -14961,7 +14979,7 @@ use_preset_vocabulary: true
 篲	hy
 篲	sy	1.1%
 𥱵	hy
-??	sy
+𥱵	sy
 𥱵	xw
 㒞	jt
 餯	hy
@@ -15312,7 +15330,7 @@ use_preset_vocabulary: true
 𠚽	jq
 乩	jq
 刏	jq
-𣬠	jq
+??	jq
 肌	ji	1.1%
 肌	jq
 𥘌	jq
@@ -15327,7 +15345,7 @@ use_preset_vocabulary: true
 㚻	jq
 𡛽	ye
 𢆻	dy
-??	jq
+𢆻	jq
 𠀷	jq
 咭	jq
 咭	qk
@@ -15363,7 +15381,7 @@ use_preset_vocabulary: true
 攲	qq
 敧	qe
 敧	qq	1.1%
-𣇳	jq
+??	jq
 𠷌	jq
 𠷌	ze
 喞	jq
@@ -16045,7 +16063,7 @@ use_preset_vocabulary: true
 𦆡	ji
 繼	ji
 𨣧	ji
-??	ji
+𩼚	ji
 䜞	ji
 𡬄	ji
 蘻	ji
@@ -16450,7 +16468,7 @@ use_preset_vocabulary: true
 譼	jl
 譼	kf	1.1%
 殲	jf
-𩅼	jf
+??	jf
 𩅼	jl
 𧥈	jf
 䶬	jf
@@ -16539,7 +16557,7 @@ use_preset_vocabulary: true
 𦁲	jh
 𢵈	af
 𢵈	jh
-𦺘	jh
+??	jh
 𦺍	jh
 𠽱	jh
 𥢇	jh
@@ -16824,7 +16842,7 @@ use_preset_vocabulary: true
 漿	jm	20.0%
 壃	gz
 薑	gz
-𨃇	gz
+??	gz
 彊	gz	1.1%
 彊	jm	33.3%
 彊	kc	33.3%
@@ -17097,7 +17115,7 @@ use_preset_vocabulary: true
 皎	jd
 脚	jd
 脚	jy
-??	jd
+𤶀	jd
 𣁹	jd
 䘨	jd
 𨺹	jd
@@ -17229,7 +17247,7 @@ use_preset_vocabulary: true
 教	ja	30.0%
 教	jz	70.0%
 𤫷	jz
-𥦢	jz
+??	jz
 窖	jz
 窖	zd	1.1%
 較	jd	20%
@@ -18455,7 +18473,7 @@ use_preset_vocabulary: true
 𩍸	zv
 𠨭	zb
 𡉎	zb
-??	ph
+𦥑	ph
 𦥑	zb
 𦥑	zn
 局	zb
@@ -18744,7 +18762,7 @@ use_preset_vocabulary: true
 颶	ju
 屨	ju
 𦗻	ju
-??	ju
+𪁥	ju
 㘌	ju
 𥴪	ju
 貗	iv
@@ -19771,7 +19789,7 @@ use_preset_vocabulary: true
 錁	ke
 錁	kk	1.1%
 𠢹	ke
-𧜡	ke
+??	ke
 𩰻	ke
 騍	ke
 礊	ho
@@ -20201,7 +20219,7 @@ use_preset_vocabulary: true
 軠	rw
 𦥰	km
 㾠	km
-??	km
+𨖢	km
 誑	km
 𩷗	km
 鵟	km
@@ -20314,7 +20332,7 @@ use_preset_vocabulary: true
 𨾗	ky
 𨾗	sx
 𩲅	ky
-𢜽	ky
+??	ky
 骙	ky
 楏	ky
 楑	ky
@@ -20708,7 +20726,7 @@ use_preset_vocabulary: true
 鑞	la
 𩯽	la
 𪇹	la
-??	la
+𤷟	la
 鞡	la
 𩋷	la
 来	ls
@@ -20789,7 +20807,7 @@ use_preset_vocabulary: true
 癞	ls
 攋	la
 攋	ls
-𡓒	ls
+??	ls
 藾	ls
 籁	ls
 瀬	ls
@@ -20986,7 +21004,7 @@ use_preset_vocabulary: true
 锒	lg
 稂	lg
 䆡	lg
-??	lg
+𥍫	lg
 𦵧	lg
 𨱍	lg
 筤	lg
@@ -21007,7 +21025,7 @@ use_preset_vocabulary: true
 鎯	lo	1.1%
 駺	lg
 駺	lm
-𨞿	lg
+??	lg
 𪁜	lg
 𩷕	lg
 䱶	lg
@@ -21123,7 +21141,7 @@ use_preset_vocabulary: true
 銠	ld
 㺐	ld
 㺐	sd
-𨡤	ld
+??	ld
 橑	ld
 橑	lz	1.1%
 䳓	ld
@@ -21321,7 +21339,7 @@ use_preset_vocabulary: true
 䴎	lr
 鸓	lr
 鑸	lr
-𣡺	lr
+??	lr
 肋	jb	1.1%
 肋	le	2.2%
 肋	lr
@@ -21606,7 +21624,7 @@ use_preset_vocabulary: true
 籬	rx
 𨯽	rx
 𩧋	rx
-𧕯	rx
+??	rx
 𧕯	vz
 𧮛	rx
 纚	rc	1.1%
@@ -21961,7 +21979,7 @@ use_preset_vocabulary: true
 𩅩	li
 䶘	li
 𣌅	li
-𥌤	li
+??	li
 蠣	li
 𤘃	li
 㒧	li
@@ -21998,7 +22016,7 @@ use_preset_vocabulary: true
 𧄻	li
 轢	li
 𣦯	li
-𩆝	li
+??	li
 𥌿	li
 囇	li
 䘈	li
@@ -22014,7 +22032,7 @@ use_preset_vocabulary: true
 轣	li
 𠫌	li
 𪅼	li
-??	li
+𨇗	li
 𥷗	li
 𨊛	li
 𧴠	li
@@ -22308,7 +22326,7 @@ use_preset_vocabulary: true
 魉	lm
 䩫	lm
 魎	lm
-𩗾	lm
+??	lm
 亮	lm
 哴	lg
 哴	lm
@@ -23079,7 +23097,7 @@ use_preset_vocabulary: true
 柳	lc
 栁	lc
 桞	lc
-𦊗	lc
+??	lc
 𦊑	lc
 桺	lc
 绺	lc
@@ -23228,7 +23246,7 @@ use_preset_vocabulary: true
 靇	lj
 靇	ln
 鑨	lj
-𩟭	lj
+??	lj
 𪔳	lj
 䪊	lj
 𩙘	lj
@@ -23654,7 +23672,7 @@ use_preset_vocabulary: true
 錄	lu
 𩛼	lu
 𤢊	lu
-𥀔	lu
+??	lu
 潞	lu
 璐	lu
 𦗓	lu
@@ -23894,7 +23912,7 @@ use_preset_vocabulary: true
 籮	vx	5.0%
 𦣖	lo
 鑼	lo
-??	lo
+𨰠	lo
 饠	lo
 𦣛	lo
 𩎊	lo
@@ -24000,7 +24018,7 @@ use_preset_vocabulary: true
 𢺑	lo
 𨏒	lo
 𨏒	lr
-??	lo
+𧭥	lo
 𩍪	lo
 㱻	lo
 㿚	lo
@@ -24186,7 +24204,7 @@ use_preset_vocabulary: true
 蔴	ma
 𡻤	ma
 嫲	ma
-??	ma
+𤳂	ma
 犘	ma
 㦄	ma
 𥀏	ma
@@ -24247,7 +24265,7 @@ use_preset_vocabulary: true
 㾺	ma
 駡	ma
 𩶞	hg
-𩶞	ma
+??	ma
 𧪨	ma
 礣	ma
 礣	mx	1.1%
@@ -24441,7 +24459,7 @@ use_preset_vocabulary: true
 牤	mg
 𡘪	mg
 𤛘	mg
-??	mg
+𩛲	mg
 邙	mg
 芒	hm	2.2%
 芒	mg
@@ -24880,7 +24898,7 @@ use_preset_vocabulary: true
 䫒	mw
 䊟	mw
 𩔉	ht
-𩔉	mb
+??	mb
 𩔉	mw
 𧄸	mw
 𧄸	uy
@@ -24955,7 +24973,7 @@ use_preset_vocabulary: true
 氋	mq
 檬	mq
 𨢠	mq
-𨢊	mq
+??	mq
 𡚔	mq
 𩄖	mq
 曚	mq
@@ -25247,7 +25265,7 @@ use_preset_vocabulary: true
 塓	mi
 𢱮	mi
 𦶲	kh
-𧵬	mi
+??	mi
 𧵬	vw
 幎	mi
 覛	mi
@@ -25602,7 +25620,7 @@ use_preset_vocabulary: true
 泯	ml	1.1%
 𣱉	mb
 𦏺	gj
-𦏺	hj
+??	hj
 勄	mb
 闽	mb
 𢼖	mb
@@ -25656,7 +25674,7 @@ use_preset_vocabulary: true
 眳	mn
 朙	mn
 铭	mn
-??	mn
+𥹆	mn
 㝠	mn
 䊅	mn
 鄍	mn
@@ -25694,7 +25712,7 @@ use_preset_vocabulary: true
 酩	mn
 㟰	mn
 慏	mn
-??	mn
+𩣶	mn
 𧟠	mn
 命	mn
 掵	mn
@@ -25761,7 +25779,7 @@ use_preset_vocabulary: true
 䯢	mo
 魔	mo
 𩞁	mi
-𩞁	mo
+??	mo
 𨆽	mo
 𩟠	mo
 䃺	mo
@@ -25834,7 +25852,7 @@ use_preset_vocabulary: true
 𧠓	mo
 𥞪	mi
 𥞪	mo
-𥬎	mo
+??	mo
 𦥦	mo
 粖	mo
 𣶊	mo
@@ -26239,7 +26257,7 @@ use_preset_vocabulary: true
 𦠸	ns
 嬭	ns
 𨎡	ns
-??	ns
+𦓎	ns
 奈	ns
 𦔹	ns
 柰	ns
@@ -26425,7 +26443,7 @@ use_preset_vocabulary: true
 悩	nd
 𠡷	nd
 𡍍	nd
-𥒢	li
+??	li
 𥒢	nd
 脳	nd
 匘	nd
@@ -26532,7 +26550,7 @@ use_preset_vocabulary: true
 能	xj	1.1%
 䏻	nq
 㴰	nq
-??	nq
+𨃳	nq
 𢆂	nq
 𠹌	nq
 𨶙	nq
@@ -26608,7 +26626,7 @@ use_preset_vocabulary: true
 𣐊	kd
 𣐊	zb
 𤙌	ni
-𡥦	jb
+??	jb
 𡥦	ni
 掜	ni
 掜	ns
@@ -26643,7 +26661,7 @@ use_preset_vocabulary: true
 𧃩	ni
 𦆦	ni
 𥜦	ni
-??	xh
+𥜦	xh
 䦵	ni
 𥷄	ni
 鑈	ni
@@ -26827,7 +26845,7 @@ use_preset_vocabulary: true
 茑	nz
 𥾇	nz
 㭤	nz
-𡘏	nz
+??	nz
 袅	nz
 𡝋	nz
 𡝒	nz
@@ -26902,7 +26920,7 @@ use_preset_vocabulary: true
 𡸣	nx
 䇣	nx
 𥬞	nx
-𦛠	nx
+??	nx
 𢈸	nx
 惗	nx
 隉	nx
@@ -27238,7 +27256,7 @@ use_preset_vocabulary: true
 努	nu
 𢫓	nu
 弩	nu
-𠴂	nu
+??	nu
 𥅄	nu
 𧉭	nu
 胬	nu
@@ -27595,7 +27613,7 @@ use_preset_vocabulary: true
 𥉟	pf
 𠽲	pf
 磐	pf
-??	pf
+𥈼	pf
 盤	pf
 盤	xp	1.1%
 𨂝	pf
@@ -27615,7 +27633,7 @@ use_preset_vocabulary: true
 蟠	ff	1.1%
 蟠	pf
 鎜	pf
-𣁦	pf
+??	pf
 瀊	pf
 鞶	pf
 䰉	bf
@@ -27670,7 +27688,7 @@ use_preset_vocabulary: true
 𩐨	pg
 𩅅	pg
 䨦	pg
-??	pg
+𪐿	pg
 𪔔	pg
 𪔔	pq
 霶	pg
@@ -27848,7 +27866,7 @@ use_preset_vocabulary: true
 俖	ps	1.1%
 𣍺	pr
 𨙶	pr
-??	pr
+𢁖	pr
 伂	pr
 㳈	pr
 沛	pr
@@ -27887,7 +27905,7 @@ use_preset_vocabulary: true
 㖹	pw
 噴	pw	100.0%
 𠽾	pu
-𠽾	pw
+??	pw
 濆	fw
 濆	pw	1.1%
 瓫	pw
@@ -28328,7 +28346,7 @@ use_preset_vocabulary: true
 闢	bi	1.1%
 闢	pi
 㿙	pi
-𪇊	pi
+??	pi
 鷿	pi
 𪛎	pi
 囨	pl
@@ -28367,7 +28385,7 @@ use_preset_vocabulary: true
 𧱩	pl
 𨂯	pl
 蹁	pl
-??	pl
+𨵸	pl
 騈	pl
 𪘀	pl
 覑	pl
@@ -28689,7 +28707,7 @@ use_preset_vocabulary: true
 醱	fa	1.1%
 醱	po
 鏺	po
-𩸿	po
+??	po
 婆	po
 㨇	po
 𢱨	po
@@ -29277,7 +29295,7 @@ use_preset_vocabulary: true
 鲯	qw
 𤹸	qw
 䐡	qw
-𪗅	qw
+??	qw
 𧡺	qw
 藄	qw
 𨉸	qw
@@ -29460,7 +29478,7 @@ use_preset_vocabulary: true
 氣	qe	1.1%
 氣	qi
 氣	xi	1.1%
-??	qi
+𦧉	qi
 𠊔	qi
 𦛰	qi
 訖	qi
@@ -30740,7 +30758,7 @@ use_preset_vocabulary: true
 掅	qn
 殸	qn
 殸	vq	1.1%
-??	qn
+𤭩	qn
 䡖	qn
 碃	qn
 靘	jn
@@ -30813,7 +30831,7 @@ use_preset_vocabulary: true
 跫	kz	1.1%
 跫	qj
 睘	qj
-𡺺	qj
+??	qj
 煢	qj
 𡦃	qj
 熍	qj
@@ -30835,7 +30853,7 @@ use_preset_vocabulary: true
 𪀛	qj
 藑	qj
 𦾵	qj
-𣜧	qj
+??	qj
 𠤊	qj
 𨍶	qj
 瓊	qj
@@ -31184,7 +31202,7 @@ use_preset_vocabulary: true
 軥	zv	1.1%
 𧊛	cb
 𧲵	cb
-??	cb
+𠍲	cb
 𡲰	cb
 𤨎	cb
 𩉿	cb
@@ -31961,7 +31979,7 @@ use_preset_vocabulary: true
 溶	rj
 嫆	rj
 嫆	yj	1.1%
-𣮪	rj
+??	rj
 瑢	rj
 榕	rj
 𣯐	rj
@@ -32444,7 +32462,7 @@ use_preset_vocabulary: true
 𥵯	sa
 𩆅	sa
 𨷆	sa
-𧭝	sa
+??	sa
 𣀯	sa
 𠮿	sa
 𠮿	sf
@@ -32554,7 +32572,7 @@ use_preset_vocabulary: true
 喪	sg	100.0%
 𡠏	sg
 槡	sg
-??	sg
+𧍨	sg
 𨢆	sg
 𩐷	sg
 𦅇	sg
@@ -32842,7 +32860,7 @@ use_preset_vocabulary: true
 𨪍	va
 鯋	va
 鯊	va
-𤑣	va
+??	va
 繺	vs
 𩮫	va
 𪄅	va
@@ -33184,7 +33202,7 @@ use_preset_vocabulary: true
 𤵼	vg
 绱	ag	1.1%
 绱	vg
-𤔚	vg
+??	vg
 緔	ag	1.1%
 緔	vg
 裳	eg	5.4%
@@ -33267,7 +33285,7 @@ use_preset_vocabulary: true
 袑	vd
 𠣫	vd
 䏴	vd
-𤉎	vd
+??	vd
 紹	ed	1.1%
 紹	vd
 睄	qs
@@ -33620,7 +33638,7 @@ use_preset_vocabulary: true
 𥘥	vq
 珄	vq
 殅	vq
-𣬺	vq
+??	vq
 𣢡	vq
 牲	vq
 竔	vq
@@ -33762,7 +33780,7 @@ use_preset_vocabulary: true
 絁	vz
 𢧏	vz
 葹	vz
-𠷇	vz
+??	vz
 𧠡	vz
 𡟕	vz
 湿	qi	1.1%
@@ -33799,7 +33817,7 @@ use_preset_vocabulary: true
 蝨	vz
 𣤘	vz
 鲺	vz
-𧩹	ui
+??	ui
 𧩹	vz
 褷	vz
 𡂓	vz
@@ -33939,7 +33957,7 @@ use_preset_vocabulary: true
 矢	vc
 㕜	vc
 𡰯	br
-??	dz
+𡰯	dz
 𡰯	vc
 乨	vc
 豕	vc
@@ -34030,7 +34048,7 @@ use_preset_vocabulary: true
 𨒧	vi
 𢂑	vi
 𡷈	vi
-𤯜	vi
+??	vi
 适	gk	1.1%
 适	ko
 适	vi	0.0%
@@ -34067,7 +34085,7 @@ use_preset_vocabulary: true
 笹	ti
 𥫴	vi
 釈	vi
-𥥥	vi
+??	vi
 視	vi
 𦚨	vi
 𢝬	vi
@@ -34177,7 +34195,7 @@ use_preset_vocabulary: true
 𠈅	vh
 敊	eu
 敊	vh
-𤱜	vh
+??	vh
 𤙘	vh
 𥅪	vh
 𤚔	vh
@@ -34322,7 +34340,7 @@ use_preset_vocabulary: true
 蔬	vn	1.1%
 蔬	vv
 樞	vv
-𩳅	vv
+??	vv
 輸	vu	1.1%
 輸	vv
 𩾈	vv
@@ -34597,7 +34615,7 @@ use_preset_vocabulary: true
 滝	vm	1.1%
 霜	vm
 雙	vm
-𩅪	vm
+??	vm
 孀	vm
 骦	vm
 騻	vm
@@ -34614,7 +34632,7 @@ use_preset_vocabulary: true
 䝄	vm
 𨇯	vm
 𧕺	vm
-??	vm
+𩆿	vm
 驦	vm
 鸘	vm
 𩽧	vm
@@ -34758,7 +34776,7 @@ use_preset_vocabulary: true
 獡	qy	1.1%
 獡	vo
 獡	xq	1.1%
-??	vo
+𦃗	vo
 𨨺	vo
 𨨺	xy
 𣝇	vo
@@ -34944,7 +34962,7 @@ use_preset_vocabulary: true
 梩	si	1.1%
 㸻	si
 笥	si
-𠋡	si
+??	si
 釲	si
 𥹊	si
 𤱸	si
@@ -34981,7 +34999,7 @@ use_preset_vocabulary: true
 儩	si
 𧀩	si
 瀃	si
-??	si
+𩸟	si
 𥜥	yi
 忪	aj
 忪	sj	1.1%
@@ -35287,7 +35305,7 @@ use_preset_vocabulary: true
 𪌔	su
 𣯼	su
 𧐒	su
-𦌉	su
+??	su
 𦌊	su
 𪐮	su
 𩳒	su
@@ -35324,7 +35342,7 @@ use_preset_vocabulary: true
 𧥆	su
 䥔	su
 𩘰	su
-𩐼	su
+??	su
 𪍛	su
 𪍛	xx
 𪋝	su
@@ -35361,7 +35379,7 @@ use_preset_vocabulary: true
 夊	sy
 芕	sy
 芕	uy	1.1%
-𤯖	sy
+??	sy
 𧈧	mq
 𧈧	sy
 虽	sy
@@ -35395,7 +35413,7 @@ use_preset_vocabulary: true
 𨾡	sy
 𠌱	sy
 滖	sy
-??	sy
+𦸏	sy
 𩃃	sy
 𣯯	sy
 熣	cy
@@ -35431,7 +35449,7 @@ use_preset_vocabulary: true
 䜔	sy
 𥶻	sy
 𩙇	sy
-𠕸	sy
+??	sy
 𨾬	sy
 㵦	sy
 膸	sy
@@ -35789,7 +35807,7 @@ use_preset_vocabulary: true
 涾	ta
 㛥	ta
 㭼	ta
-𨔯	ta
+??	ta
 𠷍	ta
 𦧛	ta
 傝	ta
@@ -35843,7 +35861,7 @@ use_preset_vocabulary: true
 錔	ta
 𦑶	ta
 䌈	ta
-𩋅	ta
+??	ta
 鞜	ta
 𣝋	ta
 蹋	ta
@@ -35882,7 +35900,7 @@ use_preset_vocabulary: true
 𤄥	ta
 𤒻	ta
 躢	ta
-𧮑	ta
+??	ta
 𧖆	ta
 𨰏	ta
 咍	hs
@@ -36103,7 +36121,7 @@ use_preset_vocabulary: true
 𡅄	tf
 罎	tf
 𪍵	tf
-??	tf
+𩪺	tf
 𥩒	tf
 忐	tf
 坦	tf
@@ -36617,7 +36635,7 @@ use_preset_vocabulary: true
 鳀	vi	1.1%
 謕	si
 謕	ti
-𩋣	ti
+??	ti
 𧀠	ti
 題	di	1.1%
 題	ti
@@ -36840,7 +36858,7 @@ use_preset_vocabulary: true
 𥪌	tl
 𨡁	tl
 𩈍	tl
-𧌎	tl
+??	tl
 舔	tf	1.1%
 舔	tl
 餂	tl
@@ -36861,7 +36879,7 @@ use_preset_vocabulary: true
 𩞯	lm
 𩉁	tl
 㐁	tl
-𨸱	nl
+??	nl
 𨸱	tl
 𤘠	tl
 𦔿	tl
@@ -37047,7 +37065,7 @@ use_preset_vocabulary: true
 听	ii	1.0%
 听	tn	2.2%
 听	ub	98.0%
-𦉬	tn
+??	tn
 耓	tn
 𨊡	tn
 厛	tn
@@ -37219,7 +37237,7 @@ use_preset_vocabulary: true
 𧊚	tj
 衕	dj	1.1%
 衕	tj
-𦨴	tj
+??	tj
 童	aj	1.1%
 童	tj
 粡	tj
@@ -37379,7 +37397,7 @@ use_preset_vocabulary: true
 凸	tu
 禿	tu
 秃	tu
-??	tu
+𣅝	tu
 𣲱	tu
 突	tu
 𢬳	tu
@@ -37568,7 +37586,7 @@ use_preset_vocabulary: true
 鷒	tp
 鷻	tp
 𪈋	tp
-??	tp
+𩠹	tp
 𤱝	tp
 疃	tp
 𢣎	tp
@@ -37805,7 +37823,7 @@ use_preset_vocabulary: true
 岮	to
 狏	ii
 狏	to
-𤝛	to
+??	to
 沲	do	1.1%
 沲	to
 沱	do	1.1%
@@ -38080,7 +38098,7 @@ use_preset_vocabulary: true
 𠠪	wf
 彎	wf
 壪	wf
-??	wf
+𢺯	wf
 灣	wf
 𡤶	wf
 𣡩	wf
@@ -38118,7 +38136,7 @@ use_preset_vocabulary: true
 頑	wf
 䯈	wf
 𩾞	wf
-??	wf
+𪐬	wf
 𨩯	wf
 𤻆	wf
 𧠆	wf
@@ -38210,7 +38228,7 @@ use_preset_vocabulary: true
 卐	wf
 卍	wf
 𢀗	wf
-𣥃	wf
+??	wf
 杤	wf
 忨	wf
 𦙵	wf
@@ -38298,7 +38316,7 @@ use_preset_vocabulary: true
 𥾼	wg
 菵	wg
 㳹	wg
-??	wg
+𣷪	wg
 𣶈	mg
 𣶈	wg
 惘	wg
@@ -38606,7 +38624,7 @@ use_preset_vocabulary: true
 㛱	oy
 㛱	uy
 瑋	uy
-𩏿	uy
+??	uy
 椲	hy
 椲	uy
 㱬	uy
@@ -38875,7 +38893,7 @@ use_preset_vocabulary: true
 纹	ww
 炆	ww
 砇	mb
-??	ww
+𤵒	ww
 闻	ww
 蚊	ww
 蚉	ww
@@ -38952,7 +38970,7 @@ use_preset_vocabulary: true
 㡈	ml
 㡈	mw
 㡈	ww
-??	ww
+𨟸	ww
 問	ww
 揾	wu
 揾	ww
@@ -39061,7 +39079,7 @@ use_preset_vocabulary: true
 𢦴	wo
 㧴	oe
 㧴	wo
-𥑣	wo
+??	wo
 捰	lo
 捰	wo
 婐	oe	1.1%
@@ -39460,7 +39478,7 @@ use_preset_vocabulary: true
 鹜	wu
 熃	wu
 䃖	wu
-??	wu
+𨧗	wu
 䛩	oe
 䛩	qk
 䛩	wu
@@ -39801,7 +39819,7 @@ use_preset_vocabulary: true
 燨	xq
 㜯	xq
 𩭡	xq
-𧀬	xq
+??	xq
 𤬘	xq
 𥋟	xq
 㘊	xq
@@ -40071,7 +40089,7 @@ use_preset_vocabulary: true
 趇	se	1.1%
 趇	xi
 椞	xi
-??	xi
+𣣉	xi
 舄	qd	1.1%
 舄	xi
 㑶	xi
@@ -40363,7 +40381,7 @@ use_preset_vocabulary: true
 仚	xf
 屳	xf
 先	xf
-??	xf
+𢒆	xf
 奾	xf
 纤	jf	1.1%
 纤	ql	1.1%
@@ -40399,7 +40417,7 @@ use_preset_vocabulary: true
 𤈷	xf
 䄏	iv
 䯭	xf
-𣔙	xf
+??	xf
 𥟕	xf
 𤶧	yt
 搟	xf
@@ -41304,7 +41322,7 @@ use_preset_vocabulary: true
 𣤡	uc
 𣤡	xz
 熽	xz
-??	xz
+𣿣	xz
 歗	xz
 䕧	jd
 䕧	xz
@@ -41409,7 +41427,7 @@ use_preset_vocabulary: true
 㖿	ix
 㖿	sx
 𤱷	sx
-??	sx
+𡸔	sx
 偕	sx	90.0%
 偕	zz	10.0%
 斜	ea	1.1%
@@ -41477,7 +41495,7 @@ use_preset_vocabulary: true
 䩤	sx
 䡡	sx
 𩰳	sx
-??	sx
+𢿡	sx
 𨵚	sx
 𧏂	sx
 𧏃	sx
@@ -41803,7 +41821,7 @@ use_preset_vocabulary: true
 枔	xb
 枔	xt	1.1%
 𩖰	xb
-??	xt
+𩖰	xt
 𩖣	ba
 𩖣	xb
 㜦	xb
@@ -41824,7 +41842,7 @@ use_preset_vocabulary: true
 𤜢	xb
 𤣲	xb
 㭄	xb
-𣥇	xb
+??	xb
 孞	xb
 炘	xb
 信	vw	1.1%
@@ -41952,7 +41970,7 @@ use_preset_vocabulary: true
 鈃	hb
 鈃	jf	1.1%
 𤶲	hb
-??	hb
+𣸝	hb
 𦈵	hb
 銒	hb
 銒	jf
@@ -42049,7 +42067,7 @@ use_preset_vocabulary: true
 𥃴	xj
 𣅷	xj
 𦈤	xj
-𡨳	ht
+??	ht
 𡨳	xj
 𥥧	xj
 詗	xj
@@ -42240,7 +42258,7 @@ use_preset_vocabulary: true
 揟	sv
 揟	zv
 𤚉	sv
-𩂉	ew
+??	ew
 𩂉	sv
 虛	sv
 幁	sv
@@ -42895,7 +42913,7 @@ use_preset_vocabulary: true
 窨	ob	1.1%
 窨	xt	50.0%
 窨	yb	50.0%
-??	xt
+𡑎	xt
 勲	xt
 駨	xp
 駨	xt
@@ -43114,7 +43132,7 @@ use_preset_vocabulary: true
 𨨙	ok
 壓	ok	99.0%
 壓	ya	1.0%
-𩭯	ok
+??	ok
 鵶	ok
 鐚	ok
 鐚	ya	1.1%
@@ -43412,7 +43430,7 @@ use_preset_vocabulary: true
 閆	il
 閆	ul	1.1%
 閆	yf	1.1%
-𣭻	il
+??	il
 啱	il	1.1%
 啱	ol
 𦛣	il
@@ -43573,7 +43591,7 @@ use_preset_vocabulary: true
 酓	ub
 酓	ul
 酓	yf
-𤟇	ul
+??	ul
 𣃳	ul
 𣃳	ye
 𨜘	mr
@@ -43648,7 +43666,7 @@ use_preset_vocabulary: true
 𢅠	ul
 𨃰	ul
 䤷	ul
-𩗷	ul
+??	ul
 縯	ub
 縯	ul	1.1%
 𧽞	ul
@@ -44072,7 +44090,7 @@ use_preset_vocabulary: true
 烊	yg	1.1%
 𨋕	og
 𨋕	yg
-𧥴	yg
+??	yg
 羕	yg
 𥥵	yg
 詇	yg
@@ -44582,7 +44600,7 @@ use_preset_vocabulary: true
 𠟪	ye
 鄴	ye
 瞱	ye
-𨂒	ye
+??	ye
 䈎	ye
 皣	ye
 㷸	dx
@@ -44928,7 +44946,7 @@ use_preset_vocabulary: true
 𡻣	ii
 銕	ii
 銕	tx	1.1%
-𩛮	ii
+??	ii
 疑	ii
 疑	ni	1.1%
 疑	nn	1.1%
@@ -45536,7 +45554,7 @@ use_preset_vocabulary: true
 燡	yi
 燱	yi
 寱	yi
-??	yi
+𥜃	yi
 翼	yi
 藝	yi
 藙	yi
@@ -45791,7 +45809,7 @@ use_preset_vocabulary: true
 碒	ib
 𠪚	ib
 𠪚	kf
-𠪚	of
+??	of
 𢝯	ib
 䇵	ii
 𤷏	ib
@@ -46528,7 +46546,7 @@ use_preset_vocabulary: true
 訧	ic
 䢟	ic
 㳺	ic
-𦳧	ic
+??	ic
 𦳷	ic
 𣓐	ic
 鱿	ic
@@ -46602,7 +46620,7 @@ use_preset_vocabulary: true
 𡊧	uc
 㔽	yd
 𢪥	uc
-𥝘	uc
+??	uc
 䒴	uc
 𣧥	uc
 𣅺	uc
@@ -46711,7 +46729,7 @@ use_preset_vocabulary: true
 䞥	yh
 酭	yh
 𩑣	yh
-??	yh
+𩲎	yh
 誘	yh
 䛻	yh
 𩜷	nc
@@ -47084,7 +47102,7 @@ use_preset_vocabulary: true
 瘐	uv
 寙	uv
 𦀡	uv
-𡻢	uv
+??	uv
 語	uv	100.0%
 語	yu	0.0%
 龉	uv
@@ -47190,7 +47208,7 @@ use_preset_vocabulary: true
 𥆉	yu
 喐	yu
 𧉣	yu
-𡇺	yu
+??	yu
 𧗪	cb
 𧗪	yu
 悆	yu
@@ -47562,7 +47580,7 @@ use_preset_vocabulary: true
 䦾	ip
 酛	ip
 厡	ip
-𠝳	ip
+??	ip
 鼋	ip
 援	hp	1.1%
 援	ip
@@ -47814,7 +47832,7 @@ use_preset_vocabulary: true
 閱	yy
 閲	yy
 𠿋	yy
-𣻮	yy
+??	yy
 樂	le	80.0%
 樂	lo	1.1%
 樂	yd	1.1%
@@ -48323,7 +48341,7 @@ use_preset_vocabulary: true
 襸	cp
 襸	zf
 𩯳	za
-𩯳	zf
+??	zf
 𩯳	zp
 讚	zf
 饡	zf
@@ -49023,7 +49041,7 @@ use_preset_vocabulary: true
 𧾍	ef
 𪃋	af
 𪃋	jf
-𥶕	af
+??	af
 䱳	af
 譫	af
 饘	af
@@ -49098,7 +49116,7 @@ use_preset_vocabulary: true
 䁴	af
 䁴	vf
 䆄	af
-𥴐	af
+??	af
 𨫀	af
 皽	ad	1.1%
 皽	af
@@ -49170,7 +49188,7 @@ use_preset_vocabulary: true
 驏	af	1.1%
 驏	ef
 蘸	af
-𪘪	af
+??	af
 𩆯	af
 𩆯	jf
 𨇩	af
@@ -49343,7 +49361,7 @@ use_preset_vocabulary: true
 𠻥	ad
 箌	ad
 箌	dd
-𠟅	ad
+??	ad
 𠟅	ai
 𠟅	ri
 䈇	ad
@@ -49592,7 +49610,7 @@ use_preset_vocabulary: true
 𨱅	aw
 針	aw
 𧮬	aw
-𧮬	jy
+??	jy
 眞	aw
 祯	aq	1.1%
 祯	aw
@@ -49682,26 +49700,26 @@ use_preset_vocabulary: true
 弫	aw
 𣬻	aw
 姫	aw
-姫	jq	0.011
+姫	jq	1.1%
 䂧	aw
 眕	aw
 𥅘	aw
 𥅘	mi
 畛	aw
 疹	aw
-疹	ew	0.011
+疹	ew	1.1%
 袗	aw
 屒	aw
-屒	ew	0.011
+屒	ew	1.1%
 聄	aw
 萙	aw
 䑐	aw
 紾	aw
-紾	tl	0.011
+紾	tl	1.1%
 軫	aw
 䠴	aw
 𧠝	aw
-覙	aw	0.011
+覙	aw	1.1%
 覙	lo
 診	aw
 裖	aw
@@ -49717,11 +49735,11 @@ use_preset_vocabulary: true
 𩬖	aw
 駗	aw
 稹	aw
-稹	bl	0.011
+稹	bl	1.1%
 𠬓	aw
 縥	aw
 縝	aw
-縝	ew	0.011
+縝	ew	1.1%
 𧤛	aw
 𥖘	aw
 辴	aw
@@ -49736,7 +49754,7 @@ use_preset_vocabulary: true
 阵	aw
 𥤤	aw
 纼	aw
-纼	ub	0.011
+纼	ub	1.1%
 𣏖	aw
 䏖	aw
 䏖	ub
@@ -49754,7 +49772,7 @@ use_preset_vocabulary: true
 栚	aw
 朕	aw
 紖	aw
-紖	ub	0.011
+紖	ub	1.1%
 𣒅	aw
 眹	aw
 赈	aw
@@ -49769,7 +49787,7 @@ use_preset_vocabulary: true
 蜄	vw
 㴨	aw
 㣀	aw
-絼	ai	0.011
+絼	ai	1.1%
 絼	aw
 㮳	aw
 𨌑	aw
@@ -49781,7 +49799,7 @@ use_preset_vocabulary: true
 𩊡	aw
 𩊨	aw
 震	aw
-震	vw	0.011
+震	vw	1.1%
 镇	aw
 鋴	aw
 𩒪	aw
@@ -49795,14 +49813,14 @@ use_preset_vocabulary: true
 𪁧	ew
 䨯	aw
 鎮	aw
-鎮	tl	0.011
+鎮	tl	1.1%
 鎭	aw
-鎭	tl	0.011
+鎭	tl	1.1%
 䳲	aw
-黮	aw	0.011
-黮	df	0.022
+黮	aw	1.1%
+黮	df	2.2%
 黮	tf
-黮	vw	0.011
+黮	vw	1.1%
 凧	aq
 争	aq
 佂	aq
@@ -49810,7 +49828,7 @@ use_preset_vocabulary: true
 征	aq
 爭	aq
 𨛰	aq
-怔	aq	1
+怔	aq	100.0%
 姃	aq
 埩	aq
 埩	eq
@@ -49828,7 +49846,7 @@ use_preset_vocabulary: true
 𧘿	aq
 烝	aq
 𢮐	aq
-掙	aq	1
+掙	aq	100.0%
 聇	aq
 𨜓	aq
 睁	aq
@@ -49840,14 +49858,14 @@ use_preset_vocabulary: true
 䋊	aq
 𦓺	aq
 揁	aq
-揁	aw	0.011
+揁	aw	1.1%
 揁	kq
 筝	aq
 䇰	aq
 𦜎	aq
 䍵	aq
 媜	aq
-媜	aw	0.011
+媜	aw	1.1%
 䋫	aq
 蒸	aq
 𨌢	aq
@@ -49858,7 +49876,7 @@ use_preset_vocabulary: true
 鉦	aq
 𩚫	aq
 箏	aq
-徴	ac	0.011
+徴	ac	1.1%
 徴	aq
 錚	aq
 𢾧	aq
@@ -49877,7 +49895,7 @@ use_preset_vocabulary: true
 𨢹	aq
 𠑅	aq
 𤪡	aq
-癥	aq	1
+癥	aq	100.0%
 𩘽	aq
 𩺄	aq
 𩘼	aq
@@ -49892,7 +49910,7 @@ use_preset_vocabulary: true
 掟	dn
 䡕	aq
 晸	aq
-晸	aw	0.011
+晸	aw	1.1%
 𨀧	aq
 𨋬	aq
 𨋬	eq
@@ -49902,7 +49920,7 @@ use_preset_vocabulary: true
 𤸲	aq
 整	aq
 𠏫	aq
-正	aq	1
+正	aq	100.0%
 㱏	aq
 𨚣	aq
 证	aq
@@ -49922,7 +49940,7 @@ use_preset_vocabulary: true
 𧶄	aq
 諍	aq
 塣	aq
-塣	eq	0.011
+塣	eq	1.1%
 䦛	aq
 鄭	aq
 㡠	aq
@@ -49942,15 +49960,15 @@ use_preset_vocabulary: true
 之	az
 支	az
 只	ac
-只	az	0.001
+只	az	0.1%
 卮	az
 汁	az
-汁	sx	0.011
-汁	vz	0.011
+汁	sx	1.1%
+汁	vz	1.1%
 芝	az
 𥃫	az
-吱	az	0.5
-吱	zi	0.5
+吱	az	50.0%
+吱	zi	50.0%
 𠰅	az
 𥝑	az
 𤽁	az
@@ -49959,34 +49977,34 @@ use_preset_vocabulary: true
 汥	ji
 𦭜	az
 枝	az
-枝	qw	0.011
+枝	qw	1.1%
 㲍	az
-知	ai	0.011
+知	ai	1.1%
 知	az
-肢	ac	0.011
+肢	ac	1.1%
 肢	az
-肢	vi	0.011
+肢	vi	1.1%
 𥘡	az
-织	ai	0.011
+织	ai	1.1%
 织	az
 𢎈	az
 栀	az
 秓	az
 𥝮	az
-秖	ac	0.011
+秖	ac	1.1%
 秖	az
-胑	av	0.011
-胑	ax	0.011
+胑	av	1.1%
+胑	ax	1.1%
 胑	az
 胝	az
-胝	di	0.011
-胝	ez	0.011
+胝	di	1.1%
+胝	ez	1.1%
 㽻	az
 𤵋	az
 衼	az
-衹	ac	1
-衹	az	0.011
-衹	qw	0
+衹	ac	100.0%
+衹	az	1.1%
+衹	qw	0.0%
 祗	az
 𠦧	az
 𦯫	az
@@ -49994,13 +50012,13 @@ use_preset_vocabulary: true
 秪	az
 㸟	az
 倁	az
-倁	ex	0.011
+倁	ex	1.1%
 隻	az
-脂	ac	0.011
+脂	ac	1.1%
 脂	az
 㩼	az
 疷	az
-疷	qw	0.011
+疷	qw	1.1%
 𨜎	az
 祬	az
 𥾣	az
@@ -50014,17 +50032,17 @@ use_preset_vocabulary: true
 𦴀	az
 椥	az
 䧴	az
-臸	ai	0.011
+臸	ai	1.1%
 臸	az
 臸	jb
 𦝔	az
-戠	ax	0.011
+戠	ax	1.1%
 戠	vi
 𨕕	az
 搘	az
 𥇭	az
 㴯	az
-禔	az	0.011
+禔	az	1.1%
 禔	ti
 馶	az
 馶	vi
@@ -50045,15 +50063,15 @@ use_preset_vocabulary: true
 鴲	az
 𧽦	az
 𨢮	az
-織	ai	0.011
+織	ai	1.1%
 織	az
 𪂅	az
 蘵	ax
-蘵	az	0.011
+蘵	az	1.1%
 鼅	az
 𦏤	az
 𪒊	az
-禵	az	0.011
+禵	az	1.1%
 禵	ti
 𩍵	az
 𩍲	az
@@ -50062,39 +50080,39 @@ use_preset_vocabulary: true
 𩙾	az
 执	ax
 𡰹	ax
-坧	ax	0.011
+坧	ax	1.1%
 坧	az
 直	ax
 侄	ax
 𣳀	ax
 姪	ax
-聀	ai	0.011
+聀	ai	1.1%
 聀	ax
-值	ai	0.011
+值	ai	1.1%
 值	ax
 値	ax
 釞	ax
 埴	ax
 執	ax
-职	ai	0.011
+职	ai	1.1%
 职	ax
 𡌴	ax
 𡸜	ax
 𢃜	ax
 𥏅	ax
 淔	ax
-淔	ei	0.011
+淔	ei	1.1%
 㥀	ax
 㥀	de
 絷	ax
 𦳮	ax
 植	ax
 殖	ax
-殖	vc	0.011
-殖	vi	0.011
+殖	vc	1.1%
+殖	vi	1.1%
 跖	ax
-跖	az	0.011
-犆	ax	0.011
+跖	az	1.1%
+犆	ax	1.1%
 犆	te
 䐈	ax
 禃	ax
@@ -50103,13 +50121,13 @@ use_preset_vocabulary: true
 瓡	hu
 𡈊	ax
 稙	ax
-稙	az	0.011
+稙	az	1.1%
 馽	ax
 墌	ao
 墌	ax
-墌	az	0.011
+墌	az	1.1%
 摭	ax
-摭	to	0.011
+摭	to	1.1%
 𣖿	ax
 𣖭	ax
 𥮖	ax
@@ -50123,10 +50141,10 @@ use_preset_vocabulary: true
 踯	ax
 𣽚	ax
 嬂	ax
-嬂	az	0.011
+嬂	az	1.1%
 樴	ax
 𨤱	ax
-膱	av	0.011
+膱	av	1.1%
 膱	ax
 㙷	ae
 㙷	ax
@@ -50135,13 +50153,13 @@ use_preset_vocabulary: true
 㯰	ae
 𡁉	ax
 𧏸	ax
-職	ai	0.011
+職	ai	1.1%
 職	ax
-職	te	0.011
+職	te	1.1%
 𡂣	ax
 蹠	ax
-蹢	ai	0.011
-蹢	ax	0.011
+蹢	ai	1.1%
+蹢	ax	1.1%
 蹢	di
 蟙	ax
 𧾂	ax
@@ -50177,25 +50195,25 @@ use_preset_vocabulary: true
 㡳	ac
 沚	ac
 汦	ac
-汦	az	0.011
-汦	ex	0.011
+汦	az	1.1%
+汦	ex	1.1%
 纸	ac
 抧	ac
 抧	as
-茋	ac	0.011
+茋	ac	1.1%
 茋	di
 㡶	ac
 𣲵	ac
-泜	ac	0.011
-泜	ai	0.011
+泜	ac	1.1%
+泜	ai	1.1%
 泜	az
-泜	di	0.011
-泜	ex	0.011
+泜	di	1.1%
+泜	ex	1.1%
 祉	ac
 指	ac
 枳	ac
-枳	ax	0.011
-枳	az	0.011
+枳	ax	1.1%
+枳	az	1.1%
 砋	ac
 轵	ac
 洔	ac
@@ -50220,10 +50238,10 @@ use_preset_vocabulary: true
 𤶓	ac
 𢛍	ac
 𦐖	ac
-??	ac
+𢰙	ac
 軹	ac
 黹	ac
-黹	xl	0.011
+黹	xl	1.1%
 𧊙	ac
 㲛	ac
 䤠	ac
@@ -50239,9 +50257,9 @@ use_preset_vocabulary: true
 䅩	qw
 𢾫	ac
 𨵂	ac
-徵	ac	0.05
-徵	aq	0.95
-徵	eq	0.011
+徵	ac	5.0%
+徵	aq	95.0%
+徵	eq	1.1%
 𤸓	ac
 𧛢	ac
 𩬺	ac
@@ -50259,16 +50277,16 @@ use_preset_vocabulary: true
 𪑜	ac
 𨬚	ac
 𨰛	ac
-阤	ai	0.011
+阤	ai	1.1%
 阤	to
-阤	ui	0.011
+阤	ui	1.1%
 芖	ai
 至	ai
-至	dx	0.011
+至	dx	1.1%
 𠚅	ai
-扻	ai	0.011
+扻	ai	1.1%
 扻	zi
-扻	zx	0.011
+扻	zx	1.1%
 志	ai
 𢖿	ai
 𨑨	ai
@@ -50281,27 +50299,27 @@ use_preset_vocabulary: true
 垁	ai
 厔	ai
 郅	ai
-郅	az	0.011
-郅	jw	0.011
+郅	az	1.1%
+郅	jw	1.1%
 帜	ai
 帙	ai
 制	ai
 质	ai
-质	ax	0.011
+质	ax	1.1%
 炙	ai
 治	ai
-治	ex	0.011
-治	ii	0.011
+治	ex	1.1%
+治	ii	1.1%
 挃	ai
 挃	dx
 𦭮	ai
 栉	ai
-栉	zx	0.011
-柣	ai	0.011
+栉	zx	1.1%
+柣	ai	1.1%
 柣	ax
-柣	dx	0.011
+柣	dx	1.1%
 峙	ai
-峙	vi	0.011
+峙	vi	1.1%
 俧	ai
 𤞂	ai
 𤞌	ai
@@ -50310,20 +50328,20 @@ use_preset_vocabulary: true
 洷	ai
 祑	ai
 陟	ai
-陟	de	0.011
+陟	de	1.1%
 贽	ai
 挚	ai
 䓌	ai
 𦯯	ai
 桎	ai
-桎	ax	0.011
+桎	ax	1.1%
 轾	ai
 致	ai
-致	ay	0.011
+致	ay	1.1%
 歭	ai
 歭	ex
 𣥰	ai
-晊	ac	0.011
+晊	ac	1.1%
 晊	ai
 秩	ai
 𠊤	ai
@@ -50341,8 +50359,8 @@ use_preset_vocabulary: true
 㨁	ax
 鸷	ai
 掷	ai
-掷	ax	0.011
-掷	az	0.011
+掷	ax	1.1%
+掷	az	1.1%
 梽	ai
 𥒓	ai
 𣨋	ai
@@ -50357,19 +50375,19 @@ use_preset_vocabulary: true
 𥏊	ai
 䄺	ai
 䄺	ti
-秷	ai	0.011
+秷	ai	1.1%
 秷	ax
 𢚨	ai
 偫	ai
 𠋤	ai
-貭	ai	0.011
+貭	ai	1.1%
 貭	ax
 徝	ai
 㣥	ai
 𦤻	ai
-乿	ai	0.5
-乿	ei	0.011
-乿	lp	0.5
+乿	ai	50.0%
+乿	ei	1.1%
+乿	lp	50.0%
 䏯	ai
 𦛧	ai
 猘	ai
@@ -50378,7 +50396,7 @@ use_preset_vocabulary: true
 袠	ai
 痔	ai
 窒	ai
-窒	dx	0.011
+窒	dx	1.1%
 䘭	ai
 翐	ai
 紩	ai
@@ -50394,7 +50412,7 @@ use_preset_vocabulary: true
 㗌	ai
 崻	ai
 智	ai
-智	az	0.011
+智	az	1.1%
 𥠈	ai
 𥠈	ji
 䇧	ai
@@ -50429,14 +50447,14 @@ use_preset_vocabulary: true
 𥇕	ai
 䝰	ai
 跱	ai
-跱	vi	0.011
+跱	vi	1.1%
 𢄱	ai
 置	ai
 锧	ai
 雉	ai
-雉	ks	0.011
-雉	si	0.011
-雉	ui	0.011
+雉	ks	1.1%
+雉	si	1.1%
+雉	ui	1.1%
 稚	ai
 䇽	ae
 䇽	ai
@@ -50445,23 +50463,23 @@ use_preset_vocabulary: true
 筫	ai
 𠍜	ai
 廌	ai
-廌	jl	0.011
+廌	jl	1.1%
 𢊁	ai
 㴛	ai
-滍	ac	0.011
+滍	ac	1.1%
 滍	ai
 寘	ai
 𢻙	ai
 綕	az
 墆	ai
 墆	di
-墆	dx	0.011
+墆	dx	1.1%
 𢄢	ai
 𡠗	ai
 覟	ai
 䎺	ai
 疐	ai
-疐	di	0.011
+疐	di	1.1%
 𢧤	ai
 㗧	ai
 㗧	dx
@@ -50473,11 +50491,11 @@ use_preset_vocabulary: true
 𦟔	ai
 𧣭	ai
 誌	ai
-瘈	ai	0.011
-瘈	ei	0.011
+瘈	ai	1.1%
+瘈	ei	1.1%
 瘈	ji
 滯	ai
-滯	ei	0.011
+滯	ei	1.1%
 潌	ai
 𡮞	ai
 𥏰	ai
@@ -50508,12 +50526,12 @@ use_preset_vocabulary: true
 𡑘	ai
 𧣾	ai
 觯	ai
-觯	az	0.011
+觯	az	1.1%
 𧨰	ai
 熫	ai
 潪	ae
 潪	ai
-潪	di	0.011
+潪	di	1.1%
 𢡒	ai
 駤	ai
 䭁	ai
@@ -50521,7 +50539,7 @@ use_preset_vocabulary: true
 䩢	ai
 䩢	da
 𩊴	ai
-薙	ai	0.011
+薙	ai	1.1%
 薙	ti
 䕌	ai
 𤴟	ai
@@ -50536,23 +50554,23 @@ use_preset_vocabulary: true
 㿃	ds
 旘	ai
 瀄	ai
-瀄	zx	0.011
+瀄	zx	1.1%
 𤖞	ai
 隲	oe
 緻	ai
 𦃘	ai
-擿	ai	0.5
-擿	as	0.011
-擿	ax	0.011
-擿	ti	0.511
+擿	ai	50.0%
+擿	as	1.1%
+擿	ax	1.1%
+擿	ti	51.1%
 𦥎	ai
 擲	ai
-擲	ax	0.011
-擲	az	0.011
+擲	ax	1.1%
+擲	az	1.1%
 𪏀	ai
 𣝸	ay
 櫛	ai
-櫛	zx	0
+櫛	zx	0.0%
 𨎉	ai
 䞃	ai
 𨃯	ai
@@ -50563,19 +50581,19 @@ use_preset_vocabulary: true
 穉	ti
 䉅	ai
 𤛱	ai
-儨	ai	0.011
+儨	ai	1.1%
 儨	ax
 劕	ai
-劕	ax	0.011
+劕	ax	1.1%
 𨟊	ai
 𧤡	ai
 䚦	ai
 𠘖	ai
 懥	ai
 𪁊	ae
-??	ai
+𪁊	ai
 贄	ai
-贄	ax	0.011
+贄	ax	1.1%
 𪁓	ai
 𦥏	ai
 䦯	ai
@@ -50586,11 +50604,11 @@ use_preset_vocabulary: true
 𪁩	ti
 𩷓	ai
 𧫡	ai
-懫	ai	0.011
+懫	ai	1.1%
 懫	ax
 㜱	ai
 瓆	ai
-瓆	ax	0.011
+瓆	ax	1.1%
 𨫔	ai
 𨫔	xx
 䥍	ai
@@ -50603,7 +50621,7 @@ use_preset_vocabulary: true
 䑇	ai
 鯯	ai
 觶	ai
-觶	az	0.011
+觶	az	1.1%
 騭	ai
 𦥐	ai
 𨆧	ai
@@ -50611,28 +50629,28 @@ use_preset_vocabulary: true
 豑	ai
 䆈	ai
 鶨	ai
-鶨	dt	0.011
+鶨	dt	1.1%
 鶨	ep
 驇	ai
 騺	ai
 䡹	ai
 𪗻	ai
 𩹈	ai
-鷙	ae	0.011
+鷙	ae	1.1%
 鷙	ai
 䲀	ai
 𧸲	ai
 躓	ai
-躓	az	0.011
+躓	az	1.1%
 䜠	ee
 𤓕	ai
-鑦	ai	0.011
+鑦	ai	1.1%
 鑦	xg
 鑕	ai
 𩻼	ai
 𩧄	ai
 豒	ai
-中	aj	1
+中	aj	100.0%
 伀	aj
 𠛀	aj
 汷	aj
@@ -50652,7 +50670,7 @@ use_preset_vocabulary: true
 柊	aj
 𤯚	aj
 盅	aj
-盅	ej	0.011
+盅	ej	1.1%
 钟	aj
 衳	aj
 䇗	aj
@@ -50669,17 +50687,17 @@ use_preset_vocabulary: true
 幒	aj
 锺	aj
 𦉂	aj
-鴤	aj	0.011
+鴤	aj	1.1%
 鴤	df
 鴤	dj
 螤	aj
-螤	uv	0.011
+螤	uv	1.1%
 䈺	aj
 鍾	aj
 螽	aj
 𧑆	aj
 鼨	aj
-鼨	tj	0.011
+鼨	tj	1.1%
 蹱	aj
 蹱	ej
 䝦	aj
@@ -50692,7 +50710,7 @@ use_preset_vocabulary: true
 𥷈	aj
 籦	aj
 肿	aj
-种	aj	0
+种	aj	0.0%
 种	ej
 𠊥	aj
 冢	aj
@@ -50705,8 +50723,8 @@ use_preset_vocabulary: true
 腫	aj
 煄	aj
 𣹞	aj
-種	aj	1
-種	ej	0.011
+種	aj	100.0%
+種	ej	1.1%
 瘇	aj
 𡰒	aj
 踵	aj
@@ -50721,12 +50739,12 @@ use_preset_vocabulary: true
 祌	aj
 祌	ej
 茽	aj
-重	aj	0.9
-重	ej	0.1
-重	tj	0.011
+重	aj	90.0%
+重	ej	10.0%
+重	tj	1.1%
 𠱧	aj
 衶	aj
-衶	ej	0.011
+衶	ej	1.1%
 蚛	aj
 眾	aj
 偅	aj
@@ -50754,7 +50772,7 @@ use_preset_vocabulary: true
 舟	ah
 州	ah
 诌	ah
-诌	zh	0.011
+诌	zh	1.1%
 侜	ah
 周	ah
 𠣘	ah
@@ -50777,25 +50795,25 @@ use_preset_vocabulary: true
 䓟	ah
 䓟	lx
 𥑸	ah
-啁	ad	0.011
+啁	ad	1.1%
 啁	ah
 矪	ah
 徟	ah
-鸼	ad	0.011
+鸼	ad	1.1%
 鸼	ah
-鸼	dz	0.011
+鸼	dz	1.1%
 週	ah
 淍	ah
 淍	dz
 婤	ah
-婤	eh	0.011
+婤	eh	1.1%
 喌	ah
 赒	ah
 䎇	ah
 𢽧	ah
-粥	ah	0.99
-粥	au	0.011
-粥	yu	0.01
+粥	ah	99.0%
+粥	au	1.1%
+粥	yu	1.0%
 𥿦	ah
 𧻖	ah
 輈	ah
@@ -50813,23 +50831,23 @@ use_preset_vocabulary: true
 𩢸	ah
 駲	ah
 霌	ah
-霌	eh	0.011
+霌	eh	1.1%
 𧇟	ah
 𡀑	ah
 䑼	ah
 𢐫	ah
 盩	ah
-盩	eh	0.011
+盩	eh	1.1%
 嚋	ah
 嚋	eh
-鵃	ad	0.011
+鵃	ad	1.1%
 鵃	ah
 鵃	dz
 𩶣	ah
 謅	ah
-謅	ed	0.011
-謅	eh	0.011
-謅	zh	0.011
+謅	ed	1.1%
+謅	eh	1.1%
+謅	zh	1.1%
 騆	ah
 𥼫	ah
 𥌆	ah
@@ -50838,16 +50856,16 @@ use_preset_vocabulary: true
 𪆀	ah
 𨏺	ah
 𡊡	ah
-妯	ab	0.011
+妯	ab	1.1%
 妯	ah
-妯	eh	0.011
-轴	ab	0.011
+妯	eh	1.1%
+轴	ab	1.1%
 轴	ah
 𥾓	ah
 㛩	ah
-軸	ab	0.011
+軸	ab	1.1%
 軸	ah
-碡	ah	0.022
+碡	ah	2.2%
 碡	du
 𥖠	ah
 𥖠	du
@@ -50871,7 +50889,7 @@ use_preset_vocabulary: true
 伷	ah
 㑇	ah
 呪	ah
-呪	nd	0.011
+呪	nd	1.1%
 咒	ah
 㤘	ah
 宙	ah
@@ -50917,13 +50935,13 @@ use_preset_vocabulary: true
 噣	du
 𥀙	ah
 縐	ah
-縐	cu	0.011
-縐	ed	0.011
+縐	cu	1.1%
+縐	ed	1.1%
 𢷗	ah
 𥲝	ah
 𩗪	ah
 骤	ah
-骤	zh	0.011
+骤	zh	1.1%
 𩋰	ah
 𥣙	ah
 𥣙	cj
@@ -50940,12 +50958,12 @@ use_preset_vocabulary: true
 𪇞	ah
 帚	ah
 朱	av
-朱	vb	0.011
-朱	vv	0.011
+朱	vb	1.1%
+朱	vv	1.1%
 𡴅	av
 劯	av
 邾	av
-侏	ah	0.011
+侏	ah	1.1%
 侏	av
 诛	av
 㧣	av
@@ -50960,7 +50978,7 @@ use_preset_vocabulary: true
 𤥮	av
 硃	av
 铢	av
-秼	au	0.011
+秼	au	1.1%
 秼	av
 𢔪	av
 猪	av
@@ -50975,12 +50993,12 @@ use_preset_vocabulary: true
 絑	av
 䣷	av
 跦	av
-跦	eb	0.011
+跦	eb	1.1%
 𡻌	av
 誅	av
 𥛂	av
-蕏	aa	0.011
-蕏	av	0.011
+蕏	aa	1.1%
+蕏	av	1.1%
 蕏	eb
 槠	av
 蝫	av
@@ -50992,7 +51010,7 @@ use_preset_vocabulary: true
 𠧀	av
 橥	av
 諸	av
-諸	eb	0.011
+諸	eb	1.1%
 駯	av
 𩋵	av
 鴸	av
@@ -51001,7 +51019,7 @@ use_preset_vocabulary: true
 藸	aa
 藸	av
 藸	eb
-藷	av	0.011
+藷	av	1.1%
 藷	vn
 𧑤	av
 𪏿	av
@@ -51013,19 +51031,19 @@ use_preset_vocabulary: true
 鼄	av
 鯺	av
 𪋑	av
-??	av
-騶	ah	0.011
-騶	av	0.011
-騶	cv	0.011
+𪋏	av
+騶	ah	1.1%
+騶	av	1.1%
+騶	cv	1.1%
 騶	zh
 䃴	av
 蠩	av
 竹	ab
 𦬸	ab
-竺	ab	0.5
-竺	du	0.5
+竺	ab	50.0%
+竺	du	50.0%
 泏	ab
-泏	eu	0.011
+泏	eu	1.1%
 泏	ku
 𡧨	ab
 𥾅	ab
@@ -51033,26 +51051,26 @@ use_preset_vocabulary: true
 笁	ab
 炢	ab
 逐	ab
-逐	ah	0.011
-逐	di	0.011
-逐	tt	0.011
+逐	ah	1.1%
+逐	di	1.1%
+逐	tt	1.1%
 𥞏	ab
 烛	ab
 烛	ej
 窋	ab
-窋	ku	0.011
+窋	ku	1.1%
 𠷅	ab
 笜	ab
 舳	ab
-舳	ah	0.011
+舳	ah	1.1%
 𣵸	ab
 𡎺	ab
 蓫	ab
 𩲠	ab
 瘃	ab
-瘃	an	0.011
+瘃	an	1.1%
 𣤁	ab
-敳	ab	0.011
+敳	ab	1.1%
 敳	os
 𩲬	ab
 㔉	an
@@ -51072,29 +51090,29 @@ use_preset_vocabulary: true
 䟉	ab
 䟉	vn
 躅	ab
-躅	ao	0.011
+躅	ao	1.1%
 鱁	ab
 䥮	ab
 䕽	ab
-劚	ab	0.011
+劚	ab	1.1%
 劚	an
 灟	ab
 孎	ab
-孎	an	0.011
+孎	an	1.1%
 孎	eo
 孎	vb
 欘	ab
-欘	an	0.011
+欘	an	1.1%
 曯	ab
-曯	eb	0.011
+曯	eb	1.1%
 爥	ab
-斸	ab	0.011
+斸	ab	1.1%
 斸	an
 蠾	ab
 蠾	vb
 䌵	ab
 䠱	ab
-钃	ab	0.011
+钃	ab	1.1%
 钃	vn
 主	an
 拄	an
@@ -51108,7 +51126,7 @@ use_preset_vocabulary: true
 罜	du
 䘢	an
 陼	an
-陼	du	0.011
+陼	du	1.1%
 𧉞	an
 𡺐	an
 䍆	au
@@ -51135,47 +51153,47 @@ use_preset_vocabulary: true
 矚	an
 伫	au
 苎	au
-苎	mq	0.011
-芧	au	0.011
+苎	mq	1.1%
+芧	au	1.1%
 芧	xu
 𠩈	au
 助	au
-助	eb	0.011
+助	eb	1.1%
 住	au
 佇	au
 纻	au
 坾	au
 苧	au
-苧	nn	0.011
+苧	nn	1.1%
 杼	au
-杼	vu	0.011
-贮	an	0.011
+杼	vu	1.1%
+贮	an	1.1%
 贮	au
 㑏	au
 㹥	au
 迬	au
 迬	wg
-注	ah	0.011
+注	ah	1.1%
 注	au
 㤖	au
 驻	au
-壴	an	0.011
+壴	an	1.1%
 壴	au
 柷	au
-柷	eu	0.011
-柱	an	0.011
+柷	eu	1.1%
+柱	an	1.1%
 柱	au
 𤕞	au
 𦙴	au
 殶	au
 炷	au
 𢩄	au
-祝	ah	0.011
+祝	ah	1.1%
 祝	au
-祝	eu	0.011
+祝	eu	1.1%
 莇	au
 砫	an
-砫	au	0.011
+砫	au	1.1%
 眝	au
 𡸌	au
 𠴦	au
@@ -51184,13 +51202,13 @@ use_preset_vocabulary: true
 𢚻	au
 㿾	au
 祩	au
-祩	av	0.011
+祩	av	1.1%
 𡱱	au
-著	ad	0.011
-著	ae	0
-著	ao	0
-著	au	1
-著	eb	0.011
+著	ad	1.1%
+著	ae	0.0%
+著	ao	0.0%
+著	au	100.0%
+著	eb	1.1%
 蛀	au
 䇠	au
 䇡	au
@@ -51203,13 +51221,13 @@ use_preset_vocabulary: true
 軴	au
 𣥼	au
 䝬	au
-貯	an	0.011
+貯	an	1.1%
 貯	au
 跓	au
 嵀	au
 铸	au
-筑	ab	0.5
-筑	au	0.5
+筑	ab	50.0%
+筑	au	50.0%
 𨈫	au
 註	au
 𤾄	au
@@ -51223,7 +51241,7 @@ use_preset_vocabulary: true
 𩡾	so
 翥	au
 𡻠	au
-箸	ao	0.011
+箸	ao	1.1%
 箸	au
 䐢	ah
 䐢	au
@@ -51237,15 +51255,15 @@ use_preset_vocabulary: true
 鋳	au
 㫂	au
 霔	au
-築	ab	0.011
+築	ab	1.1%
 築	au
-篫	ab	0.011
+篫	ab	1.1%
 篫	au
 𩶂	au
 㺛	au
 麆	au
 麆	cu
-麆	eb	0.011
+麆	eb	1.1%
 𤎧	au
 䬡	au
 𪊹	au
@@ -51262,7 +51280,7 @@ use_preset_vocabulary: true
 鑄	au
 𪚹	au
 𧈚	au
-抓	ad	0.011
+抓	ad	1.1%
 抓	ak
 𥬲	ak
 𥬲	do
@@ -51270,27 +51288,27 @@ use_preset_vocabulary: true
 檛	ak
 膼	ak
 髽	ak
-簻	ak	0.011
+簻	ak	1.1%
 簻	ke
 𣑃	ak
 𡎬	ak
 跩	al
-跩	vi	0.011
-拽	al	0.95
-拽	ye	0.05
+跩	vi	1.1%
+拽	al	95.0%
+拽	ye	5.0%
 专	ap
 叀	ap
 叀	hy
 𥫛	ap
 専	ap
 砖	ap
-砖	to	0.011
-砖	tp	0.011
+砖	to	1.1%
+砖	tp	1.1%
 耑	ap
-耑	dp	0.011
+耑	dp	1.1%
 𢂘	ap
 專	ap
-剸	ap	0.011
+剸	ap	1.1%
 剸	tp
 鄟	ap
 𢞬	ap
@@ -51308,18 +51326,18 @@ use_preset_vocabulary: true
 膞	ep
 膞	et
 磚	ap
-磚	to	0.011
-磚	tp	0.011
+磚	to	1.1%
+磚	tp	1.1%
 諯	ap
-諯	ep	0.011
+諯	ep	1.1%
 蟤	ap
 顓	ap
 𡰞	ap
 𤮳	ap
 𤮳	gp
 鱄	ap
-鱄	tp	0.011
-转	al	0.011
+鱄	tp	1.1%
+转	al	1.1%
 转	ap
 䏝	ap
 孨	ap
@@ -51348,37 +51366,37 @@ use_preset_vocabulary: true
 𢐎	ap
 𣂵	ap
 赚	ap
-赚	zp	0.011
+赚	zp	1.1%
 僎	ap
 𦁆	ap
 𦁆	jp
 𦁆	vp
 撰	ap
-撰	sp	0.011
-撰	xp	0.011
+撰	sp	1.1%
+撰	xp	1.1%
 𣚢	ap
 篆	ap
 馔	ap
-馔	xp	0.011
+馔	xp	1.1%
 𥛥	ap
 𡢀	ap
 𤩄	ap
 篹	ap
-篹	cp	0.011
-篹	sp	0.011
-篹	zp	0.022
+篹	cp	1.1%
+篹	sp	1.1%
+篹	zp	2.2%
 𩳏	ap
-賺	ap	0.5
-賺	zp	0.5
+賺	ap	50.0%
+賺	zp	50.0%
 襈	ap
 襈	jp
 縳	ap
 𧂍	ap
 𧂍	st
-轉	al	0.011
-轉	ap	1
+轉	al	1.1%
+轉	ap	100.0%
 𩔊	ap
-簨	ap	0.011
+簨	ap	1.1%
 簨	st
 𤂤	ap
 𤪪	ap
@@ -51388,47 +51406,47 @@ use_preset_vocabulary: true
 𧸖	ll
 𦧸	ap
 饌	ap
-饌	xp	0.011
+饌	xp	1.1%
 囀	ap
 籑	ap
-籑	xp	0.011
-籑	zp	0.011
+籑	xp	1.1%
+籑	zp	1.1%
 䉵	ap
 𩻝	ap
 妆	am
-庄	am	0.02
-庄	pq	0.98
+庄	am	2.0%
+庄	pq	98.0%
 庒	am
 妝	am
 荘	am
 𦚏	am
 莊	am
 桩	am
-桩	ej	0.011
+桩	ej	1.1%
 娤	am
 梉	am
 𪉉	am
 装	am
 粧	am
 湷	am
-湷	ey	0.011
+湷	ey	1.1%
 湷	ht
 裝	am
 𣻛	am
 樁	am
-樁	ej	0.011
+樁	ej	1.1%
 糚	am
 𪁈	am
 𣞝	am
 𩮱	am
 𢙳	am
-丬	jm	0.011
+丬	jm	1.1%
 丬	kx
 壮	am
-壮	kz	0.011
+壮	kz	1.1%
 状	am
 壯	am
-??	am
+𤘲	am
 狀	am
 壵	am
 𣴣	am
@@ -51438,28 +51456,28 @@ use_preset_vocabulary: true
 𠌴	am
 𦀜	am
 撞	am
-撞	em	0.011
-幢	am	0.8
-幢	em	0.2
+撞	em	1.1%
+幢	am	80.0%
+幢	em	20.0%
 𩅃	am
 𩅃	ej
 𢤤	am
 𩯲	am
-戅	am	0.011
+戅	am	1.1%
 戅	gg
-戇	am	0.5
-戇	gg	0.5
+戇	am	50.0%
+戇	gg	50.0%
 隹	ay
-隹	cy	0.011
-隹	iy	0.011
-追	ay	0.99
-追	dy	0.01
-追	ty	0.011
+隹	cy	1.1%
+隹	iy	1.1%
+追	ay	99.0%
+追	dy	1.0%
+追	ty	1.1%
 㚝	ay
 骓	ay
 㮅	ay
-椎	ay	0.95
-椎	ey	0.05
+椎	ay	95.0%
+椎	ey	5.0%
 𣨫	ay
 㗓	ay
 㩾	ay
@@ -51484,7 +51502,7 @@ use_preset_vocabulary: true
 娷	ay
 娷	vy
 缀	ay
-缀	eo	0.011
+缀	eo	1.1%
 甀	ay
 腏	ay
 腏	eo
@@ -51495,8 +51513,8 @@ use_preset_vocabulary: true
 缒	ay
 䋘	eo
 硾	ay
-畷	ao	0.011
-畷	ay	0.011
+畷	ao	1.1%
+畷	ay	1.1%
 畷	eo
 𥟒	ay
 膇	ay
@@ -51506,22 +51524,22 @@ use_preset_vocabulary: true
 㾽	ay
 㾽	ty
 墜	ay
-綴	ay	0.95
-綴	eo	0.05
-醊	ay	0.022
+綴	ay	95.0%
+綴	eo	5.0%
+醊	ay	2.2%
 醊	eo
 𩛵	ay
 諈	ay
-諈	ey	0.011
+諈	ey	1.1%
 縋	ay
 𡑻	ay
-錣	ao	0.011
+錣	ao	1.1%
 錣	ay
 錣	eo
 𩜀	ay
 𩜀	dy
 餟	ay
-餟	eo	0.011
+餟	eo	1.1%
 贅	ay
 礈	ay
 𨺵	ay
@@ -51529,22 +51547,22 @@ use_preset_vocabulary: true
 𨪗	ay
 𣦬	ay
 轛	ay
-轛	dy	0.011
+轛	dy	1.1%
 鑆	ay
 迍	at
-迍	tt	0.011
+迍	tt	1.1%
 宒	at
-肫	ao	0.011
+肫	ao	1.1%
 肫	at
-肫	et	0.011
-肫	tt	0.011
+肫	et	1.1%
+肫	tt	1.1%
 窀	at
-窀	tt	0.011
+窀	tt	1.1%
 谆	at
-啍	at	0.011
+啍	at	1.1%
 啍	tt
 訰	at
-訰	tt	0.011
+訰	tt	1.1%
 㡒	at
 𥇜	at
 𥇜	go
@@ -51570,8 +51588,8 @@ use_preset_vocabulary: true
 䂐	ao
 倬	ao
 棁	ah
-棁	ao	0.022
-棁	to	0.011
+棁	ao	2.2%
+棁	to	1.1%
 涿	ao
 琸	ao
 棳	ao
@@ -51580,7 +51598,7 @@ use_preset_vocabulary: true
 㓸	dh
 𠭴	ao
 槕	ao
-蝃	ao	0.011
+蝃	ao	1.1%
 蝃	di
 䪼	ao
 𧱰	ao
@@ -51593,17 +51611,17 @@ use_preset_vocabulary: true
 鐯	ao
 穱	ao
 穱	jy
-蠿	aa	0.011
+蠿	aa	1.1%
 蠿	ao
 圴	ao
 彴	ao
 犳	ao
-犳	eo	0.011
+犳	eo	1.1%
 㣿	ao
 㣿	dz
 灼	ao
 𨑽	ao
-茁	ab	0.011
+茁	ab	1.1%
 茁	ao
 卓	ao
 𠡑	ao
@@ -51615,7 +51633,7 @@ use_preset_vocabulary: true
 叕	li
 叕	ui
 斫	ao
-斫	co	0.011
+斫	co	1.1%
 浊	ao
 酌	ao
 丵	ao
@@ -51631,22 +51649,22 @@ use_preset_vocabulary: true
 㭬	ao
 梲	ao
 𢁁	ao
-啄	ah	0.011
+啄	ah	1.1%
 啄	ao
 啅	ad
-啅	ao	0.011
+啅	ao	1.1%
 㹿	ad
 㹿	ao
 𧢼	ao
 𤉐	ao
 娺	ao
-娺	ay	0.011
+娺	ay	1.1%
 琢	ao
-琢	zo	0.011
+琢	zo	1.1%
 斱	ao
 斮	ao
-斮	co	0.011
-𦳡	ao
+斮	co	1.1%
+??	ao
 椓	ao
 𢧈	ao
 𢽚	ao
@@ -51662,7 +51680,7 @@ use_preset_vocabulary: true
 㒂	ao
 窧	ao
 窡	ao
-窡	ay	0.011
+窡	ay	1.1%
 擆	ao
 𢳇	ao
 𢳇	zu
@@ -51683,7 +51701,7 @@ use_preset_vocabulary: true
 諑	ao
 𧨳	ao
 諁	ao
-諁	eo	0.011
+諁	eo	1.1%
 𤏸	ao
 𩩔	ao
 䦃	ao
@@ -51707,13 +51725,13 @@ use_preset_vocabulary: true
 𥢔	ao
 㺟	ao
 斵	ao
-濯	ad	0.5
-濯	ao	0.5
-濯	vo	0.011
+濯	ad	50.0%
+濯	ao	50.0%
+濯	vo	1.1%
 䮕	ao
 櫡	ao
 櫡	au
-??	ao
+𥋮	ao
 镯	ao
 𥐊	ao
 𣃑	ao
@@ -51723,7 +51741,7 @@ use_preset_vocabulary: true
 𧂒	ao
 𥗁	ao
 鵫	ad
-鵫	ao	0.011
+鵫	ao	1.1%
 𩷹	ao
 𧃔	ao
 䕴	ao
@@ -51734,7 +51752,7 @@ use_preset_vocabulary: true
 𤃮	ao
 𧞐	ao
 鐲	ao
-鐲	vn	0.011
+鐲	vn	1.1%
 籗	ao
 𨮿	ao
 𩑂	ao
@@ -51748,14 +51766,14 @@ use_preset_vocabulary: true
 㧳	ao
 㧳	bs
 𤓦	ao
-孖	ma	0.011
+孖	ma	1.1%
 孖	zi
 𠀢	zi
 孜	zi
-茊	ci	0.011
+茊	ci	1.1%
 茊	zi
 𨚖	zi
-茲	ci	0.022
+茲	ci	2.2%
 茲	zi
 㠿	ci
 㠿	zi
@@ -51764,25 +51782,25 @@ use_preset_vocabulary: true
 姕	zi
 咨	zi
 姿	zi
-兹	ci	0.011
+兹	ci	1.1%
 兹	zi
 𣳩	zi
 㰣	zi
 赀	zi
 栥	zi
 资	zi
-玆	ci	0.011
-玆	xp	0.011
+玆	ci	1.1%
+玆	xp	1.1%
 玆	zi
 紎	zi
 䣎	zi
 赼	ci
-赼	zi	0.011
+赼	zi	1.1%
 𧿞	zi
 崰	zi
 𡸟	zi
-秶	ci	0.011
-秶	ji	0.011
+秶	ci	1.1%
+秶	ji	1.1%
 秶	zi
 淄	zi
 谘	zi
@@ -51797,16 +51815,16 @@ use_preset_vocabulary: true
 䖪	zi
 嗞	zi
 嵫	zi
-粢	ci	0.022
-粢	ji	0.011
+粢	ci	2.2%
+粢	ji	1.1%
 粢	zi
 𡙛	zi
 孳	zi
 湽	zi
-滋	ci	0.011
+滋	ci	1.1%
 滋	zi
 𥚉	zi
-趑	ci	0.022
+趑	ci	2.2%
 趑	zi
 貲	zi
 𣣊	zi
@@ -51867,15 +51885,15 @@ use_preset_vocabulary: true
 鶅	zi
 鰦	zi
 𪗋	zi
-齜	es	0.011
+齜	es	1.1%
 齜	zi
 𪑿	zi
 𪅵	zi
-𧹌	zi
+??	zi
 𧕓	zi
 𪗐	zi
 𧥕	zi
-子	zi	1
+子	zi	100.0%
 𠂔	zi
 䦻	zi
 𡉗	zi
@@ -51886,11 +51904,11 @@ use_preset_vocabulary: true
 㺭	zi
 杍	zi
 姉	zc
-姉	zi	0.011
+姉	zi	1.1%
 姊	zi
 矷	zi
 秄	zi
-胏	fr	0.011
+胏	fr	1.1%
 胏	zi
 𨹀	zi
 耔	zi
@@ -51919,8 +51937,8 @@ use_preset_vocabulary: true
 䔂	zi
 䔂	zs
 𣖨	zi
-訾	ci	0.011
-訾	zi	1
+訾	ci	1.1%
+訾	zi	100.0%
 滓	zi
 榟	zi
 𡪒	zi
@@ -51940,7 +51958,7 @@ use_preset_vocabulary: true
 𢼱	zi
 牸	zi
 倳	zi
-恣	ci	0.011
+恣	ci	1.1%
 恣	zi
 眥	zi
 眦	zi
@@ -51957,8 +51975,8 @@ use_preset_vocabulary: true
 𥿩	zi
 𦍺	zi
 𧧕	zi
-漬	qi	0.011
-漬	se	0.011
+漬	qi	1.1%
+漬	se	1.1%
 漬	zi
 㱴	zi
 𧨴	zi
@@ -51973,7 +51991,7 @@ use_preset_vocabulary: true
 𠵻	zj
 𨺡	zj
 综	zj
-综	zq	0.011
+综	zq	1.1%
 骔	zj
 㨑	zj
 堫	zj
@@ -51985,7 +52003,7 @@ use_preset_vocabulary: true
 腙	zj
 猣	zj
 惾	zj
-𡞧	zj
+??	zj
 椶	zj
 𡕰	zj
 朡	zj
@@ -51999,8 +52017,8 @@ use_preset_vocabulary: true
 䑸	zj
 𥍺	zj
 緃	zj
-綜	zj	1
-綜	zq	0
+綜	zj	100.0%
+綜	zq	0.0%
 𨌰	zj
 踨	zj
 踪	zj
@@ -52016,7 +52034,7 @@ use_preset_vocabulary: true
 㯶	zj
 䗥	zj
 鍐	cj
-鍐	zj	0.011
+鍐	zj	1.1%
 𦡙	zj
 鬃	zj
 騌	zj
@@ -52052,19 +52070,19 @@ use_preset_vocabulary: true
 縂	zj
 𨍈	zj
 燪	cj
-燪	zj	0.011
+燪	zj	1.1%
 䙕	zj
 鍯	cj
-鍯	zj	0.011
+鍯	zj	1.1%
 總	zj
 𩭤	zj
 𨎢	zj
 鏓	cj
-鏓	sj	0.011
+鏓	sj	1.1%
 鏓	zj
 䰌	cj
 䰌	zj
-纵	sj	0.011
+纵	sj	1.1%
 纵	zj
 昮	zj
 疭	zj
@@ -52081,44 +52099,44 @@ use_preset_vocabulary: true
 糉	zj
 緵	zj
 𠏭	zj
-錝	cj	0.011
+錝	cj	1.1%
 錝	zj
 瘲	zj
-縦	cj	0.011
+縦	cj	1.1%
 縦	zj
 繌	va
-繌	zj	0.011
-縱	cj	0.011
-縱	sj	0.011
+繌	zj	1.1%
+縱	cj	1.1%
+縱	sj	1.1%
 縱	zj
 𩤗	zj
 𣀒	zj
 𩋯	zj
 𠂑	zh
 邹	zh
-驺	ah	0.011
+驺	ah	1.1%
 驺	zh
 郰	zh
 诹	zh
-陬	ae	0.011
+陬	ae	1.1%
 陬	zh
-掫	ah	0.011
+掫	ah	1.1%
 掫	zh
-菆	cp	0.011
+菆	cp	1.1%
 菆	zh
 㻓	zh
 棸	zh
 棷	sh
 棷	zh
 𨜗	zh
-鄒	ju	0.011
+鄒	ju	1.1%
 鄒	zh
 箃	zh
 緅	zh
 𣙻	zh
-諏	ah	0.011
+諏	ah	1.1%
 諏	zh
-鄹	ju	0.011
+鄹	ju	1.1%
 鄹	zh
 鲰	zh
 𨽁	cj
@@ -52132,7 +52150,7 @@ use_preset_vocabulary: true
 𣠏	zh
 齺	zh
 辶	eo
-辶	zh	0.011
+辶	zh	1.1%
 赱	zh
 㞫	ju
 走	zh
@@ -52141,9 +52159,9 @@ use_preset_vocabulary: true
 鯐	zh
 㔿	zh
 㛀	eb
-奏	ch	0.011
+奏	ch	1.1%
 奏	zh
-揍	ch	0.011
+揍	ch	1.1%
 揍	zh
 㔌	ch
 㔌	zh
@@ -52154,48 +52172,48 @@ use_preset_vocabulary: true
 䠫	zh
 𩼦	zh
 租	zu
-租	zv	0.011
-菹	ju	0.011
+租	zv	1.1%
+菹	ju	1.1%
 菹	zu
-菹	zv	0.011
+菹	zv	1.1%
 葅	zu
-葅	zv	0.011
+葅	zv	1.1%
 蒩	ju
 蒩	jw
 蒩	zu
-鉏	ea	0.011
+鉏	ea	1.1%
 鉏	eb
-鉏	sb	0.011
-鉏	zn	0.011
-鉏	zu	0.011
+鉏	sb	1.1%
+鉏	zn	1.1%
+鉏	zu	1.1%
 錊	zu
 錊	zy
 𪙳	zu
 卆	zu
 𤬧	zu
-足	ju	0.011
+足	ju	1.1%
 足	zu
 㞺	zu
-卒	cu	0
-卒	cy	0.011
-卒	zo	0.011
-卒	zu	1
+卒	cu	0.0%
+卒	cy	1.1%
+卒	zo	1.1%
+卒	zu	100.0%
 䘚	ab
 𢫵	zu
 𧺒	zu
 𣢰	zu
 哫	zu
 倅	cy
-倅	zu	0.011
+倅	zu	1.1%
 紣	cy
-紣	zu	0.011
-崒	cy	0.5
-崒	zu	0.5
-崪	cy	0.011
+紣	zu	1.1%
+崒	cy	50.0%
+崒	zu	50.0%
+崪	cy	1.1%
 崪	zu
 𥞯	zu
-族	ch	0.011
-族	zh	0.011
+族	ch	1.1%
+族	zh	1.1%
 族	zu
 𣨛	zu
 𤽱	zu
@@ -52205,15 +52223,15 @@ use_preset_vocabulary: true
 稡	zu
 稡	zy
 𡻬	zu
-箤	zb	0.011
+箤	zb	1.1%
 箤	zu
 𦑋	zu
 㵀	zu
 綷	cy
 綷	zu
 踤	cu
-踤	cy	0.011
-踤	zu	0.011
+踤	cy	1.1%
+踤	zu	1.1%
 䚝	zu
 𩐡	zu
 𢳈	zu
@@ -52235,7 +52253,7 @@ use_preset_vocabulary: true
 𧑙	zu
 𢅪	zu
 𥣆	zu
-鏃	eo	0.011
+鏃	eo	1.1%
 鏃	zu
 䱣	zu
 𪋍	zu
@@ -52248,23 +52266,23 @@ use_preset_vocabulary: true
 𪘧	zu
 𤓵	zu
 诅	zu
-阻	au	0.011
+阻	au	1.1%
 阻	zu
 岨	cv
-岨	zn	0.011
-岨	zu	0.011
-岨	zv	0.011
+岨	zn	1.1%
+岨	zu	1.1%
+岨	zv	1.1%
 组	zu
 珇	zu
 俎	zu
 爼	zu
 祖	zu
-祖	zz	0.011
+祖	zz	1.1%
 𤱌	zu
 唨	zo
-唨	zu	0.011
+唨	zu	1.1%
 𣇙	zu
-組	cv	0.011
+組	cv	1.1%
 組	zu
 䔃	zu
 詛	zu
@@ -52284,14 +52302,14 @@ use_preset_vocabulary: true
 𧇿	zu
 𡉺	zp
 𨉖	zp
-劗	cp	0.011
+劗	cp	1.1%
 劗	jh
 劗	zp
 𣪁	zp
 躜	zp
 𣀶	zp
 䡽	zp
-躦	co	0.011
+躦	co	1.1%
 躦	zp
 𩎑	zp
 𦙉	zp
@@ -52313,16 +52331,16 @@ use_preset_vocabulary: true
 䤸	zp
 攥	zp
 鑚	zp
-鑽	zp	1
+鑽	zp	100.0%
 厜	zy
 𢈡	zy
 朘	jp
-朘	zy	0.011
+朘	zy	1.1%
 𧻝	zy
 䘒	zy
 𡙭	zy
 𣖱	zy
-嗺	cy	0.011
+嗺	cy	1.1%
 嗺	sy
 嗺	zy
 𦸺	zy
@@ -52339,10 +52357,10 @@ use_preset_vocabulary: true
 𠲋	zy
 㭰	zy
 𦈬	zy
-觜	zi	0.5
-觜	zy	0.5
+觜	zi	50.0%
+觜	zy	50.0%
 嶊	zy
-𨿇	zy
+??	zy
 𢊛	zy
 𩲨	zy
 𠿘	zy
@@ -52368,8 +52386,8 @@ use_preset_vocabulary: true
 䘹	cy
 䘹	zy
 槜	zy
-蕞	ao	0.011
-蕞	jy	0.011
+蕞	ao	1.1%
+蕞	jy	1.1%
 蕞	zy
 醉	zy
 𣩑	zy
@@ -52391,7 +52409,7 @@ use_preset_vocabulary: true
 欈	iy
 欈	zy
 尊	zt
-墫	ct	0.022
+墫	ct	2.2%
 墫	zt
 嶟	zt
 遵	zt
@@ -52423,8 +52441,8 @@ use_preset_vocabulary: true
 𦪚	zt
 𩯄	zt
 𠹠	zo
-嘬	el	0.5
-嘬	zo	0.5
+嘬	el	50.0%
+嘬	zo	50.0%
 𨞒	zo
 𩛠	zo
 㵶	zo
@@ -52454,8 +52472,8 @@ use_preset_vocabulary: true
 𪎇	zo
 𠂇	zo
 阝	fu
-阝	yi	0.011
-阝	zo	0.011
+阝	yi	1.1%
+阝	zo	1.1%
 左	zo
 佐	zo
 㝾	zo
@@ -52465,9 +52483,9 @@ use_preset_vocabulary: true
 𦈛	zo
 繓	zo
 㑅	zo
-作	aa	0.011
+作	aa	1.1%
 作	zo
-作	zu	0.011
+作	zu	1.1%
 坐	zo
 阼	zo
 㘴	zo
@@ -52475,7 +52493,7 @@ use_preset_vocabulary: true
 岞	zo
 怍	zo
 𠱯	zo
-侳	co	0.011
+侳	co	1.1%
 侳	zo
 胙	zo
 祚	zo
@@ -52494,11 +52512,11 @@ use_preset_vocabulary: true
 葃	ze
 葃	zo
 葄	zo
-酢	cu	0.5
-酢	zo	0.5
+酢	cu	50.0%
+酢	zo	50.0%
 𨝨	zo
 蓙	zo
-飵	as	0.011
+飵	as	1.1%
 飵	ze
 飵	zo
 䔘	zo
@@ -52640,7 +52658,7 @@ use_preset_vocabulary: true
 𪉍	tu
 𪉒	bf
 𪉔	pi
-??	xl
+𪎉	xl
 𪞝	do
 𪡈	bs
 𪡏	af
@@ -52695,7 +52713,7 @@ use_preset_vocabulary: true
 𫛞	jy
 𫛢	nn
 𫛶	ei
-
+𫛸	ti
 㓦劃	bo hk
 㕷啦	pa la
 㕷噠	pa da
